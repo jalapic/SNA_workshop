@@ -1,0 +1,41 @@
+# References
+
+These are the main references that cover the material we shall explore in the course. In the code notes there are several others. Many of these can be found in the 'papers' folder.
+
+
+Books:
+
+Hanneman RA. and Riddle M.  2005.  Introduction to social network methods.  Riverside, CA:  University of California, Riverside 
+( published in digital form at http://faculty.ucr.edu/~hanneman/ )
+
+Borgatti SP, Everett MG, Johnson JC, 2018,  Analyzing Social Networks, 2nd Edition, SAGE.
+
+Whitehead H, 2008, Analyzing Animal Societies. University of Chicago Press.
+
+
+Papers:
+
+Farine 2013. Animal social network inference and permutations for ecologists in R using asnipe. Methods Ecol Evol.
+http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12121/abstract
+ 
+Farine 2014 Measuring phenotypic assortment in animal social networks: weighted associations are more robust than binary edges. Animal Behaviour.
+http://www.sciencedirect.com/science/article/pii/S0003347214000074
+   
+Farine & Whitehead 2015 Constructing, conducting and interpreting animal social network analysis. Journal Animal Ecology
+http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12418/abstract
+ 
+Shizuka & Farine 2016 Measuring the robustness of network community structure using assortativity. Animal Behaviour
+http://www.sciencedirect.com/science/article/pii/S0003347215004480
+ 
+Farine 2017 A guide to null models for animal social network analysis Methods Ecol Evol
+http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12772/full
+ 
+Farine 2017 When to choose dynamic vs. static social network analysis. J Animal Ecology
+http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12764/full
+ 
+Sanchez-Tojar et al 2017 A practical guide for inferring reliable dominance hierarchies and estimating their uncertainty. J Animal Ecology
+http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12776/full
+  
+McDonald & Shizuka 2012 Comparative transitive and temporal orderliness in dominance networks. Behavioral Ecology.
+
+
