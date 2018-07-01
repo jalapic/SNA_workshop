@@ -35,8 +35,7 @@ Learn how to evaluate key indicators of each node’s significance to the networ
 We will evaluate methods for identifying how indiviudals preferentially associate with or avoid others. In this section we shall cover topics such as cliques, clusters, spatial autocorrelation, and assortativity/homophily. 
 
 *- Introduction to Network Randomization and Random Models.* 
-It is critical in network analysis to evaluate how likely it is to observe a given network metric for our network of interest. This module will introduce how to use null models (randomizations/permutations or random graphs) to test whether networks have characteristics that are especially surprising after accounting for non-independence. We also will learn how to generate confidence intervals for network metrics and carry out significance testing. We shall learn how to use the ‘igraph’ package for random graph generation.
-
+It is critical in network analysis to evaluate how likely it is to observe a given network metric for our network of interest. This module will introduce how to use null models (randomizations/permutations or random graphs) to test whether networks have characteristics that are especially surprising after accounting for non-independence. We will examine conditional uniform graphs, standard random graph models as well as determining if these methods are appropriate for our data formats.
 
 **Day 3**
 
