@@ -1,6 +1,6 @@
 # SNA_workshop
 
-Glasgow, UK - 3rd July 2018 - 6th July 2018
+Glasgow, UK - 2nd July 2018 - 5th July 2018
 
 **Course Overview:**
 This workshop will provide students with the opportunity to learn how to use social network analysis to analyze social relational datasets such as human friendship networks or animal social networks. Attendees will learn how to use R and several R packages including igraph, sna, network, asnipe, timeordered, tsna to create network graphs, calculate descriptive network metrics, use randomization and random models to evaluate the significance of these metrics, determine graph structural properties including community structures, use QAP and MRQAP methods to assess how network characteristics relate to other individual and relational attributes, and measure change over time in dynamic networks. Attendees will also learn how to produce high quality network visualizations using R. Examples from the human and animal literatures will be covered and time will be allocated for attendees to apply these methods to their own data.
