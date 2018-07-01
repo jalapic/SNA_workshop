@@ -1,0 +1,1060 @@
+"Timestamp","Actor","Behavior","Recipient","Location","Observer","Notes"
+"10/14/2014 11:57:16","Start","Start","Start","Start","CW",NA
+"10/14/2014 12:03:10","6","Mounting","10","NB4","CW",NA
+"10/14/2014 12:04:16","6","Fighting","5","NB5","CW",NA
+"10/14/2014 12:19:27","3","Fighting","4","ML","CW",NA
+"10/14/2014 12:28:05","4","Subordinate","10","LL","CW",NA
+"10/14/2014 12:30:49","4","Fighting","2","NB1","CW",NA
+"10/14/2014 12:34:39","4","Fighting","2","NB5","CW",NA
+"10/14/2014 12:40:36","4","Subordinate","1","NB5","CW",NA
+"10/14/2014 12:44:08","4","Chasing","11","LL, LR","CW",NA
+"10/14/2014 12:44:47","4","Fighting","1","LR","CW",NA
+"10/14/2014 12:46:36","5","Subordinate","1","MR","CW",NA
+"10/14/2014 12:48:59","4","Chasing","1","LL","CW",NA
+"10/14/2014 12:50:16","4","Chasing","1","LR","CW",NA
+"10/14/2014 12:51:30","4","Fighting","8","NB5","CW",NA
+"10/14/2014 13:03:20","5","Subordinate","1","LL","CW",NA
+"10/14/2014 13:14:49","4","Fighting","2","UR","CW",NA
+"10/14/2014 13:21:47","1","Chasing","8","UR, MR","CW",NA
+"10/14/2014 13:23:25","4","Fighting","5","NB5","CW",NA
+"10/14/2014 13:26:34","9","Chasing","11","MR","CW",NA
+"10/14/2014 13:30:58","2, 4","Fighting","2, 4","LR","CW","long fight, it wasn't clear who started it, neither gave in"
+"10/14/2014 13:31:49","4","Fighting","5","NB4","CW",NA
+"10/14/2014 13:32:56","6","Fighting","2","LL","CW",NA
+"10/14/2014 13:34:20","4","Chasing","7","LL, LR","CW",NA
+"10/14/2014 13:37:14","6","Mounting","10","UL","CW",NA
+"10/14/2014 13:39:06","6","Mounting","1","MR","CW",NA
+"10/14/2014 13:39:42","4","Chasing","3","LR","CW",NA
+"10/14/2014 13:40:41","4","Chasing","11","LR","CW",NA
+"10/14/2014 13:42:25","4","Fighting","2","NB1","CW",NA
+"10/14/2014 13:46:47","3","Mounting","6","UL","CW",NA
+"10/14/2014 13:59:21","End","End","End","End","CW",NA
+"10/15/2014 16:01:05","Start","Start","Start","Start","HHG",NA
+"10/15/2014 16:46:15","12","Fighting, Chasing","8","NB4","HHG",NA
+"10/15/2014 16:53:07","12","Chasing","4","LR","HHG",NA
+"10/15/2014 17:01:07","3","Chasing","7","LR","HHG",NA
+"10/15/2014 17:08:40","12","Chasing","7","MR","HHG",NA
+"10/15/2014 17:11:17","3","Chasing","7","AllOver","HHG",NA
+"10/15/2014 17:16:42","3","Chasing","7","UR","HHG",NA
+"10/15/2014 17:18:13","3","Chasing","7","ML","HHG",NA
+"10/15/2014 17:18:30","12","Chasing","3","MR","HHG",NA
+"10/15/2014 17:19:22","12","Induce-flee","5","NB5","HHG",NA
+"10/15/2014 17:20:46","3","Chasing","7","UR","HHG",NA
+"10/15/2014 17:22:34","12","Chasing","8","LR","HHG",NA
+"10/15/2014 17:26:38","9","Chasing","11","UL","HHG",NA
+"10/15/2014 17:27:54","9","Chasing","11","MR","HHG",NA
+"10/15/2014 17:32:56","3","Chasing","5","MR","HHG",NA
+"10/15/2014 17:35:55","12","Chasing","2","LL","HHG",NA
+"10/15/2014 17:51:27","12","Chasing","6","LL","HHG",NA
+"10/15/2014 17:51:43","12","Chasing","5","LL","HHG",NA
+"10/15/2014 17:54:49","12","Chasing","5","UL","HHG",NA
+"10/15/2014 17:57:01","2","Chasing","8","LL","HHG",NA
+"10/15/2014 18:00:07","End","End","End","End","HHG",NA
+"10/16/2014 11:57:58","Start","Start","Start","Start","CW",NA
+"10/16/2014 11:59:05","4","Chasing","10","UR","CW",NA
+"10/16/2014 12:02:23","4","Chasing","6","UR","CW",NA
+"10/16/2014 12:04:41","4","Chasing","9","UL, ML","CW","chased from mid left to upper left, some biting of the tsail"
+"10/16/2014 12:05:29","4","Subordinate","2","NB5","CW",NA
+"10/16/2014 12:06:30","4","Chasing","6","UL, UR","CW","chase from UR to UL"
+"10/16/2014 12:07:07","4","Chasing","9","MR","CW",NA
+"10/16/2014 12:07:27","2","Subordinate","9","LR","CW",NA
+"10/16/2014 12:14:24","4","Chasing","7","UR","CW",NA
+"10/16/2014 12:14:55","4","Fighting","11","LR","CW",NA
+"10/16/2014 12:17:19","4","Chasing, Mounting","11","UL, UR","CW","UR => UL"
+"10/16/2014 12:19:08","7","Chasing","2","UR","CW",NA
+"10/16/2014 12:19:50","4","Chasing","10","UL","CW",NA
+"10/16/2014 12:20:09","4","Fighting","2","MR","CW",NA
+"10/16/2014 12:20:48","7","Subordinate","2","UR","CW","unrelated to previous fight -- abt a min later"
+"10/16/2014 12:21:59","4","Chasing","1","UL, UR","CW","UL => UR"
+"10/16/2014 12:23:08","2","Subordinate","11","MR","CW",NA
+"10/16/2014 12:24:40","4","Chasing","2","LL","CW",NA
+"10/16/2014 12:25:13","4","Fighting","1","LR","CW",NA
+"10/16/2014 12:26:02","4","Fighting","9","LL","CW",NA
+"10/16/2014 12:26:37","4","Chasing","6","LL","CW",NA
+"10/16/2014 12:27:11","4","Chasing","7","MR","CW",NA
+"10/16/2014 12:31:13","11","Chasing","1","LL","CW",NA
+"10/16/2014 12:32:51","4","Chasing, Mounting","9","UL","CW",NA
+"10/16/2014 12:36:28","4","Fighting","3","LR","CW",NA
+"10/16/2014 12:41:21","4","Chasing","6","LR","CW",NA
+"10/16/2014 12:42:13","11","Subordinate","3","UR","CW",NA
+"10/16/2014 12:42:32","11","Chasing","3","UL","CW",NA
+"10/16/2014 12:43:56","1","Chasing","2","UL","CW",NA
+"10/16/2014 12:44:53","11","Fighting","9","LR","CW",NA
+"10/16/2014 12:45:23","4","Chasing, Mounting","6","UR","CW",NA
+"10/16/2014 12:48:16","4","Subordinate","2","UL","CW",NA
+"10/16/2014 12:48:37","4","Chasing","11","UL","CW",NA
+"10/16/2014 12:49:16","4","Fighting","9","NB4","CW",NA
+"10/16/2014 12:51:24","4","Chasing","11","LL","CW",NA
+"10/16/2014 12:54:11","7","Chasing","9","NB1","CW",NA
+"10/16/2014 12:55:52","4","Chasing","7, 10","MR","CW",NA
+"10/16/2014 12:59:07","11","Subordinate","1","NB5","CW",NA
+"10/16/2014 12:59:52","1, 2","Fighting","1, 2","NB5","CW",NA
+"10/16/2014 13:00:22","10, 11","Fighting","10, 11","NB5","CW",NA
+"10/16/2014 13:00:39","4","Chasing","7","LL","CW",NA
+"10/16/2014 13:04:02","4","Chasing","8","ML","CW",NA
+"10/16/2014 13:06:09","4","Fighting","5","NB4","CW",NA
+"10/16/2014 13:09:44","4","Fighting, Chasing","5","NB1, NB4, NB5","CW",NA
+"10/16/2014 13:11:51","4","Chasing","1","LL","CW",NA
+"10/16/2014 13:16:06","4","Chasing","8","LL","CW",NA
+"10/16/2014 13:21:52","4","Chasing","8","NB2","CW",NA
+"10/16/2014 13:25:25","11","Chasing","3","UL","CW",NA
+"10/16/2014 13:25:53","4","Subordinate","11","UR","CW",NA
+"10/16/2014 13:27:45","7","Chasing","12","NB1","CW",NA
+"10/16/2014 13:29:30","4","Subordinate","8","NB2","CW",NA
+"10/16/2014 13:31:11","4","Chasing","1","UL","CW",NA
+"10/16/2014 13:34:25","4","Chasing","1","NB4","CW",NA
+"10/16/2014 13:42:25","11","Chasing","9","UL","CW",NA
+"10/16/2014 13:42:47","4","Chasing","6","ML","CW",NA
+"10/16/2014 13:50:13","4","Chasing","11","UR","CW",NA
+"10/16/2014 13:59:07","11","Chasing","1","UL","CW",NA
+"10/16/2014 13:59:46","End","End","End","End","CW",NA
+"10/17/2014 12:02:09","Start","Start","Start","Start","AR",NA
+"10/17/2014 12:11:51","4","Fighting, Chasing","8","MR","AR",NA
+"10/17/2014 12:16:54","4","Chasing","11","UR","AR",NA
+"10/17/2014 12:18:47","4","Chasing","6","NB4","AR",NA
+"10/17/2014 12:21:22","4","Fighting","11","UL","AR",NA
+"10/17/2014 12:22:03","4","Fighting","2","UL","AR",NA
+"10/17/2014 12:23:55","4","Induce-flee","11","LL","AR",NA
+"10/17/2014 12:29:15","4","Chasing","1","ML","AR",NA
+"10/17/2014 12:30:43","4","Chasing","1","LL","AR",NA
+"10/17/2014 12:31:23","4","Mounting","6","MR","AR",NA
+"10/17/2014 12:33:16","4","Chasing","11","LR","AR",NA
+"10/17/2014 12:37:34","4","Fighting","2","ML","AR",NA
+"10/17/2014 12:41:59","4","Fighting, Chasing","1","MR","AR",NA
+"10/17/2014 12:42:48","4","Fighting","9","LL","AR",NA
+"10/17/2014 12:43:36","4","Fighting","1","ML","AR",NA
+"10/17/2014 12:44:28","4","Chasing","11","LR","AR",NA
+"10/17/2014 12:53:56","1","Chasing","9","LR","AR",NA
+"10/17/2014 12:56:30","4","Chasing","6","MR","AR",NA
+"10/17/2014 13:06:09","4","Chasing","2","UR","AR",NA
+"10/17/2014 13:12:06","4","Chasing, Mounting","10","MR","AR",NA
+"10/17/2014 13:16:17","4","Fighting, Chasing","12","LL","AR",NA
+"10/17/2014 13:16:42","4","Chasing","12","LR","AR",NA
+"10/17/2014 13:32:35","4","Fighting","3","NB4","AR",NA
+"10/17/2014 13:37:59","8","Chasing","11","UR","AR",NA
+"10/17/2014 13:41:22","8","Fighting, Chasing, Mounting","11","UL","AR",NA
+"10/17/2014 13:41:54","8","Fighting","3","MR","AR",NA
+"10/17/2014 13:43:01","8","Fighting","7","UR","AR",NA
+"10/17/2014 13:46:37","4","Chasing","7","LR","AR",NA
+"10/17/2014 13:49:53","4","Chasing","7","UR","AR",NA
+"10/17/2014 13:51:14","4","Fighting","11","NB5","AR",NA
+"10/17/2014 13:58:47","4","Fighting","11","NB3","AR",NA
+"10/17/2014 14:00:44","End","End","End","End","AR",NA
+"10/18/2014 12:09:15","Start","Start","Start","Start","AP",NA
+"10/18/2014 12:18:23","4","Fighting","10","LL","AP",NA
+"10/18/2014 12:21:06","6","Mounting","8","UL","AP",NA
+"10/18/2014 12:22:32","6","Chasing","12","LL","AP",NA
+"10/18/2014 12:31:54","4","Chasing","12","LL","AP",NA
+"10/18/2014 12:32:27","6","Fighting, Chasing","1","LL","AP",NA
+"10/18/2014 12:34:01","4","Chasing","9","LL","AP",NA
+"10/18/2014 12:38:20","4","Chasing","3","UR","AP",NA
+"10/18/2014 12:43:13","4","Chasing","5","LL","AP",NA
+"10/18/2014 12:47:02","4","Induce-flee","11","UR","AP",NA
+"10/18/2014 12:50:45","4","Chasing","11","MR","AP",NA
+"10/18/2014 12:51:01","4","Chasing","6","ML","AP",NA
+"10/18/2014 12:51:16","4","Chasing","11","LL","AP",NA
+"10/18/2014 12:51:47","4","Chasing","7","NB2","AP",NA
+"10/18/2014 12:52:33","8","Chasing","3","MR","AP",NA
+"10/18/2014 12:52:49","8","Subordinate","3","MR","AP",NA
+"10/18/2014 12:57:08","4","Chasing","3","MR","AP",NA
+"10/18/2014 12:58:37","4","Chasing","12","UR","AP",NA
+"10/18/2014 13:01:41","4","Chasing","2","UR","AP",NA
+"10/18/2014 13:03:29","4","Chasing","3","MR","AP",NA
+"10/18/2014 13:04:31","4","Chasing","3","MR","AP",NA
+"10/18/2014 13:04:43","4","Chasing","7","UR","AP",NA
+"10/18/2014 13:11:29","8","Chasing","1","LR","AP",NA
+"10/18/2014 13:14:28","7","Chasing","6","LR","AP",NA
+"10/18/2014 13:23:56","3","Fighting, Chasing","2","UR","AP",NA
+"10/18/2014 13:31:14","6","Fighting, Subordinate","3","MR","AP",NA
+"10/18/2014 13:31:30","11","Fighting, Chasing","1","LR","AP",NA
+"10/18/2014 13:33:43","6","Chasing","3","UR","AP",NA
+"10/18/2014 13:33:56","6","Chasing","7","UL","AP",NA
+"10/18/2014 13:38:38","3","Chasing","2","UL","AP",NA
+"10/18/2014 13:45:47","3","Fighting, Chasing","2","LR","AP",NA
+"10/18/2014 13:46:01","8","Chasing","3","LR","AP",NA
+"10/18/2014 13:48:41","8","Chasing","3","LL","AP",NA
+"10/18/2014 13:58:18","4","Chasing","8","LL","AP",NA
+"10/18/2014 14:00:26","End","End","End","End","AP",NA
+"10/19/2014 11:57:15","Start","Start","Start","Start","CW",NA
+"10/19/2014 12:02:10","4","Chasing","11","LR","CW",NA
+"10/19/2014 12:04:42","4","Chasing","3","MR","CW",NA
+"10/19/2014 12:08:13","4","Subordinate","11","LR","CW",NA
+"10/19/2014 12:09:13","4","Chasing","8","LR","CW",NA
+"10/19/2014 12:11:55","4","Chasing","3","MR","CW",NA
+"10/19/2014 12:13:08","11","Chasing","1","MR","CW",NA
+"10/19/2014 12:13:42","4","Chasing, Mounting","6","MR","CW",NA
+"10/19/2014 12:15:00","2","Chasing","7","UL","CW",NA
+"10/19/2014 12:18:01","11","Chasing","1","UL","CW",NA
+"10/19/2014 12:20:44","4","Fighting, Chasing","9","LR","CW",NA
+"10/19/2014 12:22:47","11","Chasing","12","LR","CW",NA
+"10/19/2014 12:23:40","4","Chasing","11","LR","CW",NA
+"10/19/2014 12:27:56","4","Chasing","3","LR","CW",NA
+"10/19/2014 12:28:07","4","Chasing","11","LR","CW",NA
+"10/19/2014 12:28:33","4","Chasing","3","AllOver","CW",NA
+"10/19/2014 12:30:03","4","Chasing","7","LR","CW",NA
+"10/19/2014 12:32:31","4","Chasing","6","LL","CW",NA
+"10/19/2014 12:33:10","4","Chasing","11","MR","CW",NA
+"10/19/2014 12:37:49","7","Chasing","10","UL","CW",NA
+"10/19/2014 12:40:26","9","Chasing","12","MR","CW",NA
+"10/19/2014 12:41:27","4","Chasing","2","MR","CW",NA
+"10/19/2014 12:45:54","7","Fighting","10","MR","CW",NA
+"10/19/2014 12:50:51","6","Chasing","10","UL","CW",NA
+"10/19/2014 12:55:27","7","Subordinate","10","UR","CW",NA
+"10/19/2014 13:14:03","4","Chasing","12","UR","CW",NA
+"10/19/2014 13:20:47","4","Chasing","7","UR","CW",NA
+"10/19/2014 13:31:44","4","Chasing","7","MR","CW",NA
+"10/19/2014 13:34:51","4","Mounting","6","NB4","CW",NA
+"10/19/2014 13:40:33","3","Chasing, Mounting","2","UL","CW",NA
+"10/19/2014 13:45:40","1","Chasing","9","UL","CW",NA
+"10/19/2014 13:54:40","8","Chasing","3","UL","CW",NA
+"10/19/2014 13:58:44","3","Chasing","5","UR","CW",NA
+"10/19/2014 14:00:05","End","End","End","End","CW",NA
+"10/20/2014 12:58:49","Start","Start","Start","Start","AP",NA
+"10/20/2014 13:12:37","3","Mounting","5","UL","AP",NA
+"10/20/2014 13:14:50","4","Fighting, Chasing","9","LR","AP",NA
+"10/20/2014 13:25:49","6","Chasing","3","UR","AP",NA
+"10/20/2014 13:34:42","4","Subordinate","8","MR","AP",NA
+"10/20/2014 13:36:14","6","Chasing","3","MR","AP",NA
+"10/20/2014 13:36:59","6","Fighting, Chasing","8","UL","AP",NA
+"10/20/2014 13:37:14","6","Fighting, Chasing","3","UR","AP",NA
+"10/20/2014 13:44:28","4","Chasing","8","NB2","AP",NA
+"10/20/2014 14:04:39","6","Chasing","12","MR","AP",NA
+"10/20/2014 14:10:13","4","Fighting, Chasing","9","LL","AP",NA
+"10/20/2014 14:26:00","3","Chasing","7","MR","AP",NA
+"10/20/2014 14:27:06","3","Fighting, Chasing, Mounting","2","UR","AP",NA
+"10/20/2014 14:45:05","4","Chasing","3","UR","AP",NA
+"10/20/2014 14:47:12","4","Fighting, Chasing","11","UL","AP",NA
+"10/20/2014 15:00:09","End","End","End","End","AP",NA
+"10/21/2014 14:00:10","Start","Start","Start","Start","WL",NA
+"10/21/2014 14:02:28","4","Fighting, Chasing","9","NB1","WL",NA
+"10/21/2014 14:03:25","6","Fighting, Chasing","10","LR","WL",NA
+"10/21/2014 14:03:57","6","Fighting, Chasing","3","ML","WL",NA
+"10/21/2014 14:07:00","6","Chasing, Subordinate","3","MR","WL",NA
+"10/21/2014 14:11:54","4","Fighting","9","MR","WL",NA
+"10/21/2014 14:13:23","4","Induce-flee","1","UL","WL",NA
+"10/21/2014 14:16:12","6","Fighting, Chasing","3","LL","WL",NA
+"10/21/2014 14:16:53","4","Fighting, Chasing","3","ML","WL",NA
+"10/21/2014 14:17:57","11","Chasing","1","ML","WL",NA
+"10/21/2014 14:20:45","4","Chasing","8","LR","WL",NA
+"10/21/2014 14:21:27","4","Fighting","11","LR","WL",NA
+"10/21/2014 14:22:17","4","Fighting, Subordinate","11","ML","WL",NA
+"10/21/2014 14:25:15","3","Induce-flee","7","UR","WL",NA
+"10/21/2014 14:28:11","4","Fighting, Chasing","7","LR","WL",NA
+"10/21/2014 14:29:40","4","Chasing","3","UR","WL",NA
+"10/21/2014 14:31:30","4","Fighting","2","LL","WL",NA
+"10/21/2014 14:31:58","3","Chasing","7","UR","WL",NA
+"10/21/2014 14:32:03","3","Chasing","7","UR","WL",NA
+"10/21/2014 14:32:41","4","Fighting, Chasing","2","LL","WL",NA
+"10/21/2014 14:36:46","3","Induce-flee","7","UR","WL",NA
+"10/21/2014 14:40:18","11","Fighting, Chasing","12","ML","WL",NA
+"10/21/2014 14:43:12","11","Induce-flee","1","LL","WL",NA
+"10/21/2014 14:44:04","4","Fighting, Chasing","11","NB1","WL",NA
+"10/21/2014 14:45:26","8","Induce-flee","1","LL","WL",NA
+"10/21/2014 14:45:49","4","Fighting, Chasing, Subordinate","3","UL","WL",NA
+"10/21/2014 14:46:40","4","Fighting, Chasing, Subordinate","11","UL","WL",NA
+"10/21/2014 14:47:00","8","Chasing","9","UL","WL",NA
+"10/21/2014 14:49:15","4","Fighting","11","UL","WL",NA
+"10/21/2014 14:50:28","4","Chasing","1","ML","WL",NA
+"10/21/2014 14:50:44","4","Subordinate","11","ML","WL",NA
+"10/21/2014 14:51:42","4","Subordinate","3","UR","WL",NA
+"10/21/2014 14:53:28","8","Induce-flee","1","LL","WL",NA
+"10/21/2014 14:56:20","11","Chasing","1","ML","WL",NA
+"10/21/2014 14:58:13","4","Fighting, Chasing","9","AllOver","WL",NA
+"10/21/2014 14:59:05","4","Fighting","1, 9","NB5","WL",NA
+"10/21/2014 14:59:37","4","Fighting","2","NB5","WL",NA
+"10/21/2014 15:00:39","4","Induce-flee","11","LL","WL",NA
+"10/21/2014 15:25:04","4","Fighting, Chasing, Subordinate","9","LL","WL",NA
+"10/21/2014 15:31:04","7","Fighting, Chasing, Subordinate","9","UL","WL",NA
+"10/21/2014 15:38:00","2","Fighting, Subordinate","7","UR","WL",NA
+"10/21/2014 15:41:13","4","Fighting, Chasing","5","UR","WL",NA
+"10/21/2014 15:41:53","4","Chasing","8","LR","WL",NA
+"10/21/2014 15:43:48","4","Fighting, Chasing","9","UR","WL",NA
+"10/21/2014 15:48:38","4","Induce-flee","7","UL","WL",NA
+"10/21/2014 15:49:39","4","Fighting, Chasing","1","LL","WL",NA
+"10/21/2014 15:51:07","3","Chasing","1","UR","WL",NA
+"10/21/2014 15:52:15","4","Chasing, Subordinate","11","UL","WL",NA
+"10/21/2014 15:53:02","4","Fighting, Chasing","6","LR","WL",NA
+"10/21/2014 15:54:21","4","Fighting, Chasing","2","LL","WL",NA
+"10/21/2014 15:55:03","4","Fighting, Chasing","7, 8","LL","WL",NA
+"10/21/2014 16:00:36","6","Fighting, Chasing","10","MR","WL",NA
+"10/21/2014 16:01:02","End","End","End","End","WL",NA
+"10/21/2014 16:01:10","End","End","End","End","WL",NA
+"10/22/2014 15:51:40","Start","Start","Start","Start","HHG",NA
+"10/22/2014 15:54:41","6","Chasing","3","UR","HHG",NA
+"10/22/2014 16:02:36","4","Chasing","8","MR","HHG",NA
+"10/22/2014 16:04:55","4","Fighting","8","AllOver","HHG",NA
+"10/22/2014 16:06:30","4","Chasing","3","UR","HHG",NA
+"10/22/2014 16:13:08","6","Chasing","12","LL","HHG",NA
+"10/22/2014 16:21:29","12","Induce-flee","8","LL","HHG",NA
+"10/22/2014 16:26:14","8","Chasing","3","UL","HHG",NA
+"10/22/2014 16:30:24","8","Chasing","1","LR","HHG",NA
+"10/22/2014 16:32:16","4","Fighting, Chasing","2","NB5","HHG",NA
+"10/22/2014 17:04:11","3","Chasing","5","MR","HHG",NA
+"10/22/2014 17:06:47","7","Chasing","10","MR","HHG",NA
+"10/22/2014 17:08:52","7","Chasing","1","MR","HHG",NA
+"10/22/2014 17:10:09","8","Fighting","3","ML","HHG",NA
+"10/22/2014 17:10:57","8","Chasing","3","UL","HHG",NA
+"10/22/2014 17:12:38","7","Chasing","11","UL","HHG",NA
+"10/22/2014 17:13:46","4","Induce-flee","3","LR","HHG",NA
+"10/22/2014 17:17:36","7","Chasing","8","UR","HHG",NA
+"10/22/2014 17:19:45","4","Chasing","6","LR","HHG",NA
+"10/22/2014 17:20:28","8","Fighting","3","UL","HHG",NA
+"10/22/2014 17:24:26","3","Chasing","10","UL","HHG",NA
+"10/22/2014 17:25:05","4","Fighting","2","MR","HHG",NA
+"10/22/2014 17:27:09","4","Induce-flee","3","UL","HHG",NA
+"10/22/2014 17:34:16","5","Chasing","6","ML","HHG",NA
+"10/22/2014 17:36:25","4","Chasing","10","UL","HHG",NA
+"10/22/2014 17:37:55","4","Chasing","11","LR","HHG",NA
+"10/22/2014 17:40:03","4","Induce-flee","6","LL","HHG",NA
+"10/22/2014 17:46:17","6","Subordinate","11","NB3","HHG",NA
+"10/22/2014 17:51:01","4","Chasing","10","MR","HHG",NA
+"10/22/2014 17:52:08","End","End","End","End","HHG",NA
+"10/23/2014 11:56:33","Start","Start","Start","Start","CW",NA
+"10/23/2014 11:59:58","4","Chasing","7","UL","CW",NA
+"10/23/2014 12:04:42","4","Chasing","7","UR","CW",NA
+"10/23/2014 12:08:57","7","Fighting, Chasing","10","UL","CW",NA
+"10/23/2014 12:12:42","7","Chasing","9","UL","CW",NA
+"10/23/2014 12:14:09","4","Chasing","9","MR","CW",NA
+"10/23/2014 12:14:59","7","Chasing","10","UR","CW",NA
+"10/23/2014 12:15:37","7","Induce-flee","12","NB1","CW",NA
+"10/23/2014 12:17:10","4","Fighting","12","NB3","CW",NA
+"10/23/2014 12:17:50","4","Fighting","2","LR","CW",NA
+"10/23/2014 12:20:43","4","Fighting","3","LL","CW",NA
+"10/23/2014 12:24:10","7","Mounting","6","UR","CW",NA
+"10/23/2014 12:31:04","7","Chasing","12","UR","CW",NA
+"10/23/2014 12:31:08","7","Chasing","12","UR","CW",NA
+"10/23/2014 12:32:23","4","Chasing","11","LR","CW",NA
+"10/23/2014 12:33:39","7","Chasing","10","ML","CW",NA
+"10/23/2014 12:34:55","4","Fighting","7","ML","CW",NA
+"10/23/2014 12:38:09","4","Chasing","11","UR","CW",NA
+"10/23/2014 12:39:01","11","Chasing","1","UL","CW",NA
+"10/23/2014 12:39:40","4","Chasing","7","MR","CW",NA
+"10/23/2014 12:42:34","1","Chasing","2","UR","CW",NA
+"10/23/2014 12:43:56","4","Fighting, Chasing","12","NB4","CW",NA
+"10/23/2014 12:45:58","4","Fighting","2","LL","CW",NA
+"10/23/2014 12:56:21","3","Chasing","2","UR","CW",NA
+"10/23/2014 12:57:28","6","Chasing","10","UL","CW",NA
+"10/23/2014 12:57:46","7","Chasing","10","AllOver","CW",NA
+"10/23/2014 12:58:30","7","Fighting, Chasing","6","AllOver","CW",NA
+"10/23/2014 12:59:53","7","Chasing","6","MR","CW",NA
+"10/23/2014 13:00:11","End","End","End","End","CW",NA
+"10/23/2014 18:08:13","Start","Start","Start","Start","CW","late bc extractim"
+"10/23/2014 18:23:41","7","Subordinate","10","UR","CW","**last note was supposed to say late bc extracting rna with rahia"
+"10/23/2014 18:23:54","6","Chasing","12","LL","CW",NA
+"10/23/2014 18:24:48","7","Chasing","6","UR","CW",NA
+"10/23/2014 18:25:22","7","Chasing","3","UL","CW",NA
+"10/23/2014 18:25:36","7","Chasing","6","LR","CW",NA
+"10/23/2014 18:30:23","7","Chasing","10","MR","CW",NA
+"10/23/2014 18:32:43","7","Fighting","9","NB3","CW",NA
+"10/23/2014 18:39:49","3","Fighting","7","UL","CW",NA
+"10/23/2014 18:40:08","3","Induce-flee","7","LR","CW",NA
+"10/23/2014 18:46:51","10","Chasing","12","MR","CW",NA
+"10/23/2014 18:48:00","3","Chasing","7","ML","CW",NA
+"10/23/2014 18:51:24","4","Chasing","10","LR","CW",NA
+"10/23/2014 18:52:23","4","Chasing","12","LL","CW",NA
+"10/23/2014 18:54:24","4","Chasing","10","UR","CW",NA
+"10/23/2014 18:56:01","3","Induce-flee","7","UL","CW",NA
+"10/23/2014 19:00:07","7","Chasing","1, 9","UR","CW",NA
+"10/23/2014 19:00:20","End","End","End","End","CW",NA
+"10/24/2014 12:03:40","Start","Start","Start","Start","AR",NA
+"10/24/2014 12:08:31","7","Chasing","2","UL","AR",NA
+"10/24/2014 12:09:08","4","Chasing","7","LR","AR",NA
+"10/24/2014 12:11:46","4","Fighting","5","UL","AR",NA
+"10/24/2014 12:13:03","4","Chasing","7","UL","AR",NA
+"10/24/2014 12:14:54","4","Chasing","2","UR","AR",NA
+"10/24/2014 12:15:14","4","Chasing","11","MR","AR",NA
+"10/24/2014 12:18:26","7","Mounting","6","LR","AR",NA
+"10/24/2014 12:20:07","7","Chasing, Mounting","8","MR","AR",NA
+"10/24/2014 12:22:55","4","Chasing","9","LR","AR",NA
+"10/24/2014 12:26:13","4","Fighting","8","LR","AR",NA
+"10/24/2014 12:27:10","4","Fighting","9","MR","AR",NA
+"10/24/2014 12:28:26","4","Fighting, Chasing","11","NB1","AR",NA
+"10/24/2014 12:31:19","7","Chasing","8","MR","AR",NA
+"10/24/2014 12:32:25","4","Fighting","9","LL","AR",NA
+"10/24/2014 12:33:10","4","Chasing","7","ML","AR",NA
+"10/24/2014 12:33:42","3","Fighting, Chasing","2","LL","AR",NA
+"10/24/2014 12:35:49","7","Chasing","10","UL","AR",NA
+"10/24/2014 12:44:18","4","Fighting","9","NB5","AR",NA
+"10/24/2014 12:44:41","4","Fighting, Chasing","2","LR","AR",NA
+"10/24/2014 12:49:19","4","Fighting","2","UR","AR",NA
+"10/24/2014 12:52:56","4","Fighting, Chasing","2","LR","AR",NA
+"10/24/2014 12:55:15","4","Fighting, Chasing","9","LL","AR",NA
+"10/24/2014 12:57:28","4","Fighting","2","MR","AR",NA
+"10/24/2014 13:02:17","4","Chasing","2","ML","AR",NA
+"10/24/2014 13:05:03","4","Fighting, Chasing","11","LL","AR",NA
+"10/24/2014 13:05:38","4","Chasing","7","MR","AR",NA
+"10/24/2014 13:09:08","7","Chasing","9","MR","AR",NA
+"10/24/2014 13:13:31","7","Fighting, Chasing","9","UR","AR",NA
+"10/24/2014 13:14:29","7","Mounting","6","MR","AR",NA
+"10/24/2014 13:15:36","7","Chasing","10","UL","AR",NA
+"10/24/2014 13:20:19","7","Chasing, Mounting","10","LL","AR",NA
+"10/24/2014 13:21:24","7","Fighting, Chasing","6","LR","AR",NA
+"10/24/2014 13:25:55","7","Chasing","6","MR","AR",NA
+"10/24/2014 13:26:34","4","Chasing","7","MR","AR",NA
+"10/24/2014 13:33:27","7","Fighting","6","LL","AR",NA
+"10/24/2014 13:39:11","7","Fighting","12","NB4","AR",NA
+"10/24/2014 13:40:27","4","Chasing","3","MR","AR",NA
+"10/24/2014 13:42:37","4","Fighting","12","NB4","AR",NA
+"10/24/2014 13:44:13","7","Chasing","6","ML","AR",NA
+"10/24/2014 13:47:59","4","Fighting","6","LL","AR",NA
+"10/24/2014 13:50:16","4","Fighting","3","UR","AR",NA
+"10/24/2014 13:51:44","3","Chasing","7","UR","AR",NA
+"10/24/2014 13:53:41","4","Fighting, Chasing","2","UR","AR",NA
+"10/24/2014 13:56:02","4","Chasing","9","MR","AR",NA
+"10/24/2014 13:56:56","4","Fighting","9","UR","AR",NA
+"10/24/2014 13:57:16","4","Fighting, Mounting","8","MR","AR",NA
+"10/24/2014 13:59:16","4","Chasing","7","MR","AR",NA
+"10/24/2014 14:01:25","End","End","End","End","AR",NA
+"10/25/2014 12:06:53","Start","Start","Start","Start","KW",NA
+"10/25/2014 12:08:53","3","Chasing","7","UR","KW",NA
+"10/25/2014 12:09:39","3","Chasing","6","LL","KW",NA
+"10/25/2014 12:10:05","3","Fighting","12","MR","KW",NA
+"10/25/2014 12:13:00","3","Chasing","7","UR","KW",NA
+"10/25/2014 12:17:20","4","Chasing","12","NB3","KW",NA
+"10/25/2014 12:18:57","4","Fighting","7","LR","KW",NA
+"10/25/2014 12:23:47","4","Fighting, Mounting","6","LR","KW",NA
+"10/25/2014 12:27:12","6","Chasing","12","ML","KW",NA
+"10/25/2014 12:27:30","4","Mounting","6","NB1","KW",NA
+"10/25/2014 12:33:45","7","Mounting","8","MR","KW",NA
+"10/25/2014 12:35:29","4","Mounting","7","UL","KW",NA
+"10/25/2014 12:35:48","4","Mounting","6","UR","KW",NA
+"10/25/2014 12:39:26","6","Chasing, Mounting","2","LL","KW",NA
+"10/25/2014 12:41:31","4","Chasing","3","MR","KW",NA
+"10/25/2014 12:42:57","3","Chasing","7","ML","KW",NA
+"10/25/2014 12:44:44","7","Mounting","10","LL","KW",NA
+"10/25/2014 12:45:50","4","Chasing, Mounting","6","LR","KW",NA
+"10/25/2014 12:47:05","6","Fighting, Chasing","10","LL","KW",NA
+"10/25/2014 12:50:01","4","Fighting, Chasing","8","LL","KW",NA
+"10/25/2014 12:52:49","7","Fighting, Chasing","8","LL","KW",NA
+"10/25/2014 12:53:54","7","Fighting, Chasing","8","LR","KW","another incidence, not a double record"
+"10/25/2014 12:54:26","4","Fighting","8","NB4","KW",NA
+"10/25/2014 12:57:15","7","Induce-flee","6","LR","KW",NA
+"10/25/2014 13:01:11","7","Mounting","6","LL","KW",NA
+"10/25/2014 13:02:47","4","Fighting, Chasing","12","NB1","KW",NA
+"10/25/2014 13:04:36","6","Induce-flee","7","MR","KW",NA
+"10/25/2014 13:11:09","4","Induce-flee","7","MR","KW",NA
+"10/25/2014 13:11:51","4","Chasing","7","LR","KW",NA
+"10/25/2014 13:17:45","7","Fighting, Chasing","11","LR","KW",NA
+"10/25/2014 13:19:22","7","Chasing, Mounting","10","LR","KW",NA
+"10/25/2014 13:22:38","4","Mounting","6","LL","KW",NA
+"10/25/2014 13:25:15","4","Mounting","6","LL","KW","another incidence, not a double record"
+"10/25/2014 13:26:19","7","Chasing","10","MR","KW",NA
+"10/25/2014 13:30:02","4","Chasing","8","LR","KW",NA
+"10/25/2014 13:38:21","7","Fighting, Chasing","11","ML","KW",NA
+"10/25/2014 13:38:37","4","Fighting","7","LL","KW",NA
+"10/25/2014 13:41:24","3","Fighting, Chasing","7","UL","KW",NA
+"10/25/2014 13:44:32","3","Mounting","1","UR","KW",NA
+"10/25/2014 13:48:29","4","Induce-flee","7","LL","KW",NA
+"10/25/2014 13:51:21","7","Mounting","10","MR","KW",NA
+"10/25/2014 13:52:09","6","Chasing","12","LL","KW",NA
+"10/25/2014 13:52:41","7","Chasing","10","LR","KW",NA
+"10/25/2014 13:53:17","7","Mounting","6","MR","KW",NA
+"10/25/2014 14:00:15","3","Fighting, Chasing","7","MR","KW",NA
+"10/25/2014 14:00:55","3","Fighting, Chasing","7","UL, ML","KW",NA
+"10/25/2014 14:01:51","End","End","End","End","KW","in general, the mice were much less active during the second hour"
+"10/25/2014 14:02:43","End","End","End","End","KW","in general, the mice were much less active during the second hour"
+"10/26/2014 15:52:52","Start","Start","Start","Start","CW",NA
+"10/26/2014 16:05:03","7","Chasing","2","ML","CW",NA
+"10/26/2014 16:05:24","3","Fighting","2","ML","CW",NA
+"10/26/2014 16:09:02","7","Chasing","6","LR","CW",NA
+"10/26/2014 16:11:01","3","Chasing","7","MR","CW",NA
+"10/26/2014 16:11:14","3","Induce-flee","7","LL","CW",NA
+"10/26/2014 16:12:12","3","Fighting, Chasing","6","AllOver","CW",NA
+"10/26/2014 16:13:34","3","Subordinate","5","LL","CW","happened in the tube between lower left and nest box 2"
+"10/26/2014 16:14:34","6","Chasing","8","LR","CW",NA
+"10/26/2014 16:15:59","4","Chasing","3","UL","CW","***weird bc 3 is notma"
+"10/26/2014 16:16:56","6","Fighting, Chasing","8","AllOver","CW",NA
+"10/26/2014 16:18:06","6","Fighting","4","LR","CW","comment a few back was supposed to say weird bc 3 is normally dominant, but im sure it was 3"
+"10/26/2014 16:24:58","3","Chasing","6","UL","CW",NA
+"10/26/2014 16:25:29","6","Fighting, Chasing","12","AllOver","CW",NA
+"10/26/2014 16:37:57","6","Chasing","11","UR","CW",NA
+"10/26/2014 16:39:06","4","Chasing","6","LR","CW",NA
+"10/26/2014 16:49:09","4","Chasing","11","UL","CW",NA
+"10/26/2014 16:49:57","6","Chasing","12","AllOver","CW",NA
+"10/26/2014 16:57:32","4","Fighting, Chasing","9","MR","CW",NA
+"10/26/2014 16:59:48","4","Fighting, Chasing","3","UR","CW",NA
+"10/26/2014 17:00:40","6","Chasing","1","LL","CW",NA
+"10/26/2014 17:04:18","4","Chasing","3","LL","CW",NA
+"10/26/2014 17:04:18","4","Chasing","3","LL","CW",NA
+"10/26/2014 17:05:14","4","Chasing","3","UL","CW",NA
+"10/26/2014 17:16:33","3","Chasing","8","ML","CW",NA
+"10/26/2014 17:21:54","3","Chasing","1","LR","CW",NA
+"10/26/2014 17:25:55","6","Fighting, Chasing","8","UL","CW",NA
+"10/26/2014 17:29:03","4","Fighting, Chasing","3","UL","CW",NA
+"10/26/2014 17:29:29","3","Chasing","1","UR","CW",NA
+"10/26/2014 17:40:43","3","Induce-flee","7","UL","CW",NA
+"10/26/2014 17:41:58","4","Chasing","6","NB1","CW",NA
+"10/26/2014 17:43:09","3","Chasing","4","MR","CW",NA
+"10/26/2014 17:44:52","6","Fighting, Chasing","8","UL","CW",NA
+"10/26/2014 17:46:08","6","Chasing","10","AllOver","CW",NA
+"10/26/2014 17:52:54","3","Fighting, Chasing","1","UR","CW",NA
+"10/26/2014 17:54:07","3","Chasing","8","UL","CW",NA
+"10/26/2014 17:54:51","4","Fighting","6","LR","CW",NA
+"10/26/2014 17:55:06","6","Chasing","1","LR","CW",NA
+"10/26/2014 18:00:21","End","End","End","End","CW",NA
+"10/27/2014 12:59:27","Start","Start","Start","Start","AP",NA
+"10/27/2014 13:00:43","3","Chasing","7","UL","AP",NA
+"10/27/2014 13:01:52","3","Chasing","2","MR","AP",NA
+"10/27/2014 13:06:33","6","Chasing","8","UL","AP",NA
+"10/27/2014 13:07:03","6","Chasing","12","MR","AP",NA
+"10/27/2014 13:07:23","4","Chasing","6","MR","AP",NA
+"10/27/2014 13:15:13","6","Chasing, Mounting","8","UR","AP",NA
+"10/27/2014 13:17:42","7","Induce-flee","11","MR","AP",NA
+"10/27/2014 13:20:12","4","Chasing","12","LR","AP",NA
+"10/27/2014 13:31:38","6","Chasing, Mounting","8","UL","AP",NA
+"10/27/2014 13:32:01","6","Chasing","8","UR","AP",NA
+"10/27/2014 13:36:49","7","Chasing","8","LL","AP",NA
+"10/27/2014 13:39:35","4","Fighting","12","LR","AP",NA
+"10/27/2014 13:42:47","4","Fighting","3","LL","AP",NA
+"10/27/2014 13:44:58","6","Fighting, Chasing","10","UL","AP",NA
+"10/27/2014 13:45:09","7","Fighting","6","LL","AP",NA
+"10/27/2014 13:46:56","4","Fighting, Chasing","7","UL","AP",NA
+"10/27/2014 13:47:34","4","Fighting","7","UL","AP",NA
+"10/27/2014 13:47:48","4","Fighting, Chasing","3","UR","AP",NA
+"10/27/2014 13:59:17","3","Chasing","1","UL","AP",NA
+"10/27/2014 13:59:33","4","Chasing","3","UR","AP",NA
+"10/27/2014 14:07:41","3","Fighting","6","UL","AP",NA
+"10/27/2014 14:08:23","3","Chasing, Mounting","2","UL","AP",NA
+"10/27/2014 14:08:53","4","Fighting, Chasing","3","UL","AP",NA
+"10/27/2014 14:09:27","4","Chasing","3","UR","AP",NA
+"10/27/2014 14:12:30","4","Chasing","3","UR","AP",NA
+"10/27/2014 14:15:33","7","Chasing","10","UL","AP",NA
+"10/27/2014 14:19:31","3","Mounting","5","UL","AP",NA
+"10/27/2014 14:19:54","3","Chasing","5","UL","AP",NA
+"10/27/2014 14:29:12","6","Chasing","8","MR","AP",NA
+"10/27/2014 14:33:53","6","Chasing","8","UR","AP",NA
+"10/27/2014 14:34:25","3","Fighting, Chasing","7","UL","AP",NA
+"10/27/2014 14:35:48","6","Chasing","8","UL","AP",NA
+"10/27/2014 14:36:49","3","Mounting","8","UR","AP",NA
+"10/27/2014 14:38:12","4","Fighting, Chasing","7","LL","AP",NA
+"10/27/2014 14:39:18","4","Fighting, Chasing","7","LL","AP",NA
+"10/27/2014 14:45:15","6","Chasing","8","MR","AP",NA
+"10/27/2014 14:51:18","4","Chasing","9","UR","AP",NA
+"10/27/2014 14:54:03","7","Chasing","8","UL","AP",NA
+"10/27/2014 15:00:54","End","End","End","End","AP",NA
+"10/28/2014 14:05:45","Start","Start","Start","Start","WL",NA
+"10/28/2014 14:10:06","4","Fighting, Chasing, Subordinate","10","LL","WL",NA
+"10/28/2014 14:12:10","4","Induce-flee","3","MR","WL",NA
+"10/28/2014 14:12:22","4","Chasing","7","UR","WL",NA
+"10/28/2014 14:12:57","3","Fighting, Chasing","12","LR","WL",NA
+"10/28/2014 14:14:13","4","Chasing","10","LL","WL",NA
+"10/28/2014 14:15:17","4","Chasing","3","UR","WL",NA
+"10/28/2014 14:15:48","4","Chasing","7","ML","WL",NA
+"10/28/2014 14:16:25","7","Chasing","8","UL","WL",NA
+"10/28/2014 14:16:47","4","Fighting, Chasing, Subordinate","3","UR","WL",NA
+"10/28/2014 14:16:59","4","Chasing","7","UL","WL",NA
+"10/28/2014 14:18:34","7","Chasing","8","UL","WL",NA
+"10/28/2014 14:19:37","6","Chasing","8","UR","WL",NA
+"10/28/2014 14:20:54","6","Chasing","8","UL","WL",NA
+"10/28/2014 14:21:09","7","Fighting, Chasing","8","UL","WL",NA
+"10/28/2014 14:22:03","4","Fighting, Chasing, Subordinate","8","UR","WL",NA
+"10/28/2014 14:25:50","3","Fighting, Chasing","8","UR","WL",NA
+"10/28/2014 14:26:05","3","Chasing","7","MR","WL",NA
+"10/28/2014 14:26:22","4","Fighting, Chasing","3","UL","WL",NA
+"10/28/2014 14:28:21","3","Fighting, Chasing, Mounting","6","UL","WL",NA
+"10/28/2014 14:29:23","4","Fighting, Chasing","7","ML","WL",NA
+"10/28/2014 14:29:37","4","Fighting, Chasing, Subordinate","3","UL","WL",NA
+"10/28/2014 14:29:50","6","Fighting, Chasing, Mounting","8","UL","WL",NA
+"10/28/2014 14:34:45","5","Chasing","6","NB2","WL",NA
+"10/28/2014 14:36:21","7","Fighting, Chasing, Subordinate","9","UL","WL",NA
+"10/28/2014 14:36:51","3","Fighting, Chasing, Mounting","8","UL","WL",NA
+"10/28/2014 14:37:09","7","Chasing","8","UL","WL",NA
+"10/28/2014 14:37:24","4","Fighting, Chasing","7","LL","WL",NA
+"10/28/2014 14:38:22","4","Fighting","3","UR","WL",NA
+"10/28/2014 14:38:38","6","Fighting, Chasing, Subordinate","9","LL","WL",NA
+"10/28/2014 14:39:37","7","Fighting, Chasing, Mounting","6","LL","WL",NA
+"10/28/2014 14:40:05","4","Induce-flee","7","LL","WL",NA
+"10/28/2014 14:41:45","7","Fighting, Chasing","9","MR","WL",NA
+"10/28/2014 14:43:37","4","Fighting, Chasing","3","UR","WL",NA
+"10/28/2014 14:45:04","4","Induce-flee","5","LR","WL",NA
+"10/28/2014 14:46:09","7","Fighting, Chasing, Subordinate","5","UL","WL",NA
+"10/28/2014 14:46:54","4","Fighting","10","LR","WL",NA
+"10/28/2014 14:47:43","7","Fighting, Chasing","9","UL","WL",NA
+"10/28/2014 14:48:49","4","Fighting, Chasing","11","AllOver","WL",NA
+"10/28/2014 14:49:42","4","Chasing","12","LL","WL",NA
+"10/28/2014 14:51:08","4","Fighting, Chasing, Mounting","10","LL","WL",NA
+"10/28/2014 14:51:41","4","Fighting","7","LL","WL",NA
+"10/28/2014 14:53:02","11","Fighting, Chasing","7, 12","UL","WL",NA
+"10/28/2014 14:53:23","4","Fighting, Chasing","3","UL","WL",NA
+"10/28/2014 14:57:56","4","Induce-flee","7","LL","WL",NA
+"10/28/2014 14:58:42","4","Fighting, Chasing","11","MR","WL",NA
+"10/28/2014 14:59:26","4","Chasing","7","UL","WL",NA
+"10/28/2014 15:04:08","4","Subordinate","11","NB5","WL",NA
+"10/28/2014 15:06:58","7","Fighting, Chasing","5","UL","WL",NA
+"10/28/2014 15:09:59","4","Chasing","12","LL","WL",NA
+"10/28/2014 15:21:15","3","Fighting","5","UL","WL",NA
+"10/28/2014 15:21:55","3","Fighting, Chasing, Subordinate","2","UR","WL",NA
+"10/28/2014 15:22:33","4","Chasing","3","UR","WL",NA
+"10/28/2014 15:25:55","4","Fighting, Chasing","3","UR","WL",NA
+"10/28/2014 15:26:47","4","Fighting, Chasing","3","UR","WL",NA
+"10/28/2014 15:27:35","4","Fighting, Chasing","7","UL","WL",NA
+"10/28/2014 15:29:31","7","Chasing","8","UL","WL",NA
+"10/28/2014 15:29:58","7","Fighting, Chasing","6","UL","WL",NA
+"10/28/2014 15:31:43","7","Fighting, Chasing","9","UL","WL",NA
+"10/28/2014 15:32:59","6","Fighting, Chasing","1","LL","WL",NA
+"10/28/2014 15:34:59","3","Fighting, Chasing","7","LL","WL",NA
+"10/28/2014 15:35:13","4","Fighting, Chasing","8","LR","WL",NA
+"10/28/2014 15:35:25","4","Fighting, Chasing","7","LL","WL",NA
+"10/28/2014 15:36:09","1","Fighting, Chasing","9","UL","WL",NA
+"10/28/2014 15:36:21","7","Fighting, Chasing","1","ML","WL",NA
+"10/28/2014 15:37:20","3","Fighting, Chasing","6","UL","WL",NA
+"10/28/2014 15:37:32","3","Fighting, Chasing","7","ML","WL",NA
+"10/28/2014 15:38:47","7","Fighting","6","LL","WL",NA
+"10/28/2014 15:39:00","4","Fighting, Chasing, Subordinate","8","NB2","WL",NA
+"10/28/2014 15:40:21","3","Fighting, Chasing","6","UR","WL",NA
+"10/28/2014 15:40:32","3","Fighting, Chasing","2","LL","WL",NA
+"10/28/2014 15:40:43","3","Fighting, Chasing","1","LR","WL",NA
+"10/28/2014 15:41:59","1","Fighting, Chasing","9","NB4","WL",NA
+"10/28/2014 15:42:17","1","Fighting","8","NB4","WL",NA
+"10/28/2014 15:43:34","3","Fighting, Chasing","7","ML","WL",NA
+"10/28/2014 15:43:56","3","Fighting, Chasing","6","UL","WL",NA
+"10/28/2014 15:44:09","3","Fighting, Chasing","6","MR","WL",NA
+"10/28/2014 15:44:26","4","Chasing","3","LL","WL",NA
+"10/28/2014 15:45:34","4","Fighting","7","NB2","WL",NA
+"10/28/2014 15:46:14","3","Fighting, Chasing","9","ML","WL",NA
+"10/28/2014 15:47:41","3","Fighting, Chasing","6","UR","WL",NA
+"10/28/2014 15:47:57","4","Fighting, Chasing, Subordinate","3","MR","WL",NA
+"10/28/2014 15:48:25","4","Fighting, Chasing","6","MR","WL",NA
+"10/28/2014 15:51:19","3","Fighting, Chasing","8","UR","WL",NA
+"10/28/2014 15:59:56","3","Chasing","6","UR","WL",NA
+"10/28/2014 16:04:56","4","Fighting, Chasing","3","UL","WL",NA
+"10/29/2014 15:59:13","Start","Start","Start","Start","WL",NA
+"10/29/2014 16:00:25","4","Chasing","3","UR","WL",NA
+"10/29/2014 16:01:14","4","Fighting, Chasing","7","LL","WL",NA
+"10/29/2014 16:01:23","4","Chasing","3","UL","WL",NA
+"10/29/2014 16:02:37","4","Chasing","8","LR","WL",NA
+"10/29/2014 16:05:30","3","Fighting, Chasing","8","UL","WL",NA
+"10/29/2014 16:08:12","6","Chasing","10","LR","WL",NA
+"10/29/2014 16:08:52","4","Fighting, Chasing","8","LR","WL",NA
+"10/29/2014 16:09:20","3","Fighting, Subordinate","10","UR","WL",NA
+"10/29/2014 16:09:42","3","Fighting, Chasing","7","ML","WL",NA
+"10/29/2014 16:10:36","4","Fighting, Chasing, Subordinate","7","MR","WL",NA
+"10/29/2014 16:11:25","6","Fighting, Chasing, Subordinate","1","UL","WL",NA
+"10/29/2014 16:11:39","4","Fighting, Chasing","7","LL","WL",NA
+"10/29/2014 16:12:18","4","Fighting","10","LR","WL",NA
+"10/29/2014 16:13:24","3","Fighting, Chasing, Mounting, Subordinate","2","UL","WL",NA
+"10/29/2014 16:14:24","4","Chasing","3","UR","WL",NA
+"10/29/2014 16:17:05","3","Chasing","8","UR","WL",NA
+"10/29/2014 16:20:25","6","Chasing","12","LL","WL",NA
+"10/29/2014 16:21:04","6","Chasing","12","UR","WL",NA
+"10/29/2014 16:21:48","4","Chasing","6","LR","WL",NA
+"10/29/2014 16:24:10","7","Chasing, Subordinate","10","MR","WL",NA
+"10/29/2014 16:26:44","7","Chasing","11","MR","WL",NA
+"10/29/2014 16:26:55","4","Fighting, Chasing","7","LR","WL",NA
+"10/29/2014 16:27:24","6","Fighting, Chasing","8","UR","WL",NA
+"10/29/2014 16:28:49","4","Chasing","5","MR","WL",NA
+"10/29/2014 16:30:48","4","Chasing","11","UR","WL",NA
+"10/29/2014 16:31:22","7","Fighting, Chasing, Subordinate","11","UL","WL",NA
+"10/29/2014 16:31:38","7","Fighting, Chasing","5","ML","WL",NA
+"10/29/2014 16:37:32","2","Chasing","11","UL","WL",NA
+"10/29/2014 16:39:19","11","Fighting, Subordinate","6","NB5","WL","contextual aggression?"
+"10/29/2014 16:40:31","4","Chasing","2","UL","WL",NA
+"10/29/2014 16:41:30","3","Chasing","7","MR","WL",NA
+"10/29/2014 16:42:52","6","Fighting, Chasing","12","MR","WL",NA
+"10/29/2014 16:43:42","3","Fighting, Chasing","10","UL","WL",NA
+"10/29/2014 16:43:59","3","Fighting, Chasing","2, 6","MR","WL",NA
+"10/29/2014 16:44:14","4","Fighting, Chasing","3","AllOver","WL",NA
+"10/29/2014 16:44:51","4","Fighting, Subordinate","11","UR","WL",NA
+"10/29/2014 16:46:22","4","Fighting, Chasing","8","AllOver","WL",NA
+"10/29/2014 16:48:10","4","Chasing","7","MR","WL",NA
+"10/29/2014 16:48:30","4","Chasing","3","UR","WL",NA
+"10/29/2014 16:49:44","7","Fighting, Chasing","9","ML","WL",NA
+"10/29/2014 16:49:58","4","Fighting, Chasing","5","LL","WL",NA
+"10/29/2014 16:51:09","7","Fighting, Chasing, Mounting","10","MR","WL",NA
+"10/29/2014 16:53:41","4","Fighting, Chasing, Subordinate","7","MR","WL",NA
+"10/29/2014 16:53:57","4","Fighting, Chasing","3","ML","WL",NA
+"10/29/2014 16:56:44","7","Fighting, Chasing, Mounting","10","UL","WL",NA
+"10/29/2014 16:59:17","7","Fighting, Chasing","9","ML","WL",NA
+"10/29/2014 17:09:11","7","Fighting","12","LL","WL",NA
+"10/29/2014 17:11:26","4","Chasing","1","MR","WL",NA
+"10/29/2014 17:13:25","11","Chasing","1","UR","WL",NA
+"10/29/2014 17:13:45","7","Fighting, Chasing","2","AllOver","WL",NA
+"10/29/2014 17:14:02","8","Fighting, Chasing","2","UL","WL",NA
+"10/29/2014 17:14:32","7","Fighting, Chasing","12","UL","WL",NA
+"10/29/2014 17:22:10","7","Fighting, Subordinate","10","MR","WL",NA
+"10/29/2014 17:22:25","7","Fighting, Chasing","9","MR","WL",NA
+"10/29/2014 17:23:25","4","Chasing","7","MR","WL",NA
+"10/29/2014 17:24:37","4","Chasing","8, 10","LR","WL",NA
+"10/29/2014 17:25:49","4","Chasing","10","MR","WL",NA
+"10/29/2014 17:28:19","3","Chasing","7","ML","WL",NA
+"10/29/2014 17:28:54","6","Chasing","9","MR","WL",NA
+"10/29/2014 17:29:20","3","Chasing","7","ML","WL",NA
+"10/29/2014 17:32:47","4","Chasing, Subordinate","3","UR","WL",NA
+"10/29/2014 17:33:58","7","Fighting, Chasing","6","UL","WL",NA
+"10/29/2014 17:35:54","3","Chasing","7","UL","WL",NA
+"10/29/2014 17:36:05","3","Chasing","6","ML","WL",NA
+"10/29/2014 17:36:18","3","Fighting, Chasing","1","MR","WL",NA
+"10/29/2014 17:36:43","3","Fighting, Chasing","8","ML","WL",NA
+"10/29/2014 17:36:59","3","Fighting, Chasing","8","AllOver","WL",NA
+"10/29/2014 17:39:00","3","Chasing","7","UR","WL",NA
+"10/29/2014 17:39:53","4","Fighting, Chasing","8","LR","WL",NA
+"10/29/2014 17:42:53","3","Fighting, Chasing","6","UL","WL",NA
+"10/29/2014 17:43:34","4","Fighting, Chasing","3","UL","WL",NA
+"10/29/2014 17:44:35","4","Fighting, Chasing","8","LR","WL",NA
+"10/29/2014 17:44:51","4","Fighting, Chasing, Subordinate","3","UR","WL",NA
+"10/29/2014 17:49:39","3","Fighting, Chasing","7","UR","WL",NA
+"10/29/2014 17:50:51","6","Fighting, Chasing, Subordinate","8","UL","WL",NA
+"10/29/2014 17:51:24","4","Fighting, Chasing","6","LR","WL",NA
+"10/29/2014 17:51:43","4","Fighting, Chasing","7","LL","WL",NA
+"10/29/2014 17:52:21","6","Fighting, Chasing, Mounting","8","ML","WL",NA
+"10/29/2014 17:53:33","4","Fighting, Chasing, Subordinate","11","UR","WL",NA
+"10/29/2014 17:54:30","6","Fighting, Chasing, Subordinate","8","AllOver","WL",NA
+"10/29/2014 17:55:54","6","Fighting, Chasing","8","AllOver","WL",NA
+"10/29/2014 17:56:04","4","Chasing, Subordinate","6","MR","WL",NA
+"10/29/2014 17:56:45","4","Fighting, Subordinate","7","UL","WL",NA
+"10/29/2014 17:57:47","4","Fighting, Chasing, Subordinate","11","UR","WL",NA
+"10/29/2014 17:58:58","6","Fighting, Chasing, Subordinate","8","ML","WL",NA
+"10/29/2014 18:00:02","End","End","End","End","WL",NA
+"10/30/2014 12:00:13","Start","Start","Start","Start","CW",NA
+"10/30/2014 12:02:36","4","Fighting","3","MR","CW",NA
+"10/30/2014 12:06:30","7","Chasing","2","LL","CW",NA
+"10/30/2014 12:07:10","7","Fighting, Chasing","11","ML","CW",NA
+"10/30/2014 12:07:55","6","Chasing","12","UL","CW",NA
+"10/30/2014 12:09:26","7","Chasing","11","UL","CW",NA
+"10/30/2014 12:09:49","4","Fighting","7","MR","CW",NA
+"10/30/2014 12:10:19","7","Chasing","6","LL","CW",NA
+"10/30/2014 12:11:06","7","Fighting","9","UL","CW",NA
+"10/30/2014 12:11:18","4","Induce-flee","7","UL","CW",NA
+"10/30/2014 12:16:00","4","Chasing","2","UL","CW",NA
+"10/30/2014 12:17:23","6","Chasing","12","MR","CW",NA
+"10/30/2014 12:18:09","3","Chasing","7","AllOver","CW",NA
+"10/30/2014 12:21:04","7","Induce-flee","2","UL","CW",NA
+"10/30/2014 12:21:40","4","Chasing","3","UL","CW",NA
+"10/30/2014 12:23:02","4","Chasing","3","UR","CW",NA
+"10/30/2014 12:23:41","3","Chasing","9","UR","CW",NA
+"10/30/2014 12:24:10","7","Chasing","2","UL","CW",NA
+"10/30/2014 12:24:44","4","Fighting, Chasing","2","MR","CW",NA
+"10/30/2014 12:26:03","4","Chasing","6","LL","CW",NA
+"10/30/2014 12:26:20","4","Chasing","3","UR","CW",NA
+"10/30/2014 12:28:52","3","Chasing","7","ML","CW",NA
+"10/30/2014 12:31:25","7","Chasing","6","UL","CW",NA
+"10/30/2014 12:31:53","7","Chasing","9","UL","CW",NA
+"10/30/2014 12:34:27","6","Chasing","8","UR","CW",NA
+"10/30/2014 12:35:12","4","Subordinate","8","LR","CW",NA
+"10/30/2014 12:35:26","4","Chasing","6","LL","CW",NA
+"10/30/2014 12:37:21","3","Fighting, Chasing","7","UL","CW",NA
+"10/30/2014 12:37:51","3","Fighting, Chasing","6","UR","CW",NA
+"10/30/2014 12:38:15","3","Chasing","8","UR","CW",NA
+"10/30/2014 12:38:56","4","Fighting","5","LR","CW",NA
+"10/30/2014 12:39:26","3","Fighting","6","MR","CW",NA
+"10/30/2014 12:40:34","4","Chasing","3","UR","CW",NA
+"10/30/2014 12:42:33","4","Chasing","12","LR","CW",NA
+"10/30/2014 12:43:37","3","Chasing","10","UR","CW",NA
+"10/30/2014 12:44:07","3","Chasing","6","UR","CW",NA
+"10/30/2014 12:47:33","4","Chasing","2","LR","CW",NA
+"10/30/2014 12:48:07","3","Subordinate","7","MR","CW",NA
+"10/30/2014 12:48:40","3","Fighting","10","ML","CW",NA
+"10/30/2014 12:49:09","3","Fighting","8","UR","CW",NA
+"10/30/2014 12:49:58","4","Chasing","2","AllOver","CW",NA
+"10/30/2014 12:52:13","3","Chasing","7","ML","CW",NA
+"10/30/2014 12:52:49","4","Chasing","7","LL","CW",NA
+"10/30/2014 12:55:14","3","Chasing","10","UL","CW",NA
+"10/30/2014 12:55:28","3","Chasing","8","UL","CW",NA
+"10/30/2014 13:01:16","4","Subordinate","10","LL","CW",NA
+"10/30/2014 13:01:37","6","Chasing, Mounting","8","AllOver","CW",NA
+"10/30/2014 13:03:30","3","Fighting","7","ML","CW",NA
+"10/30/2014 13:03:44","4","Fighting","3, 7","ML","CW",NA
+"10/30/2014 13:08:57","7","Fighting","10","MR","CW",NA
+"10/30/2014 13:09:27","7","Fighting, Chasing","10","MR","CW",NA
+"10/30/2014 13:11:08","6","Subordinate","1","UR","CW",NA
+"10/30/2014 13:11:59","4","Fighting","7","LL","CW",NA
+"10/30/2014 13:18:59","7","Chasing","9","UL","CW",NA
+"10/30/2014 13:21:21","7","Chasing","11","LR","CW",NA
+"10/30/2014 13:23:05","7","Chasing","11","MR","CW",NA
+"10/30/2014 13:23:17","7","Chasing","6","MR","CW",NA
+"10/30/2014 13:25:22","4","Induce-flee","7","MR","CW",NA
+"10/30/2014 13:28:53","7","Fighting","10","MR","CW",NA
+"10/30/2014 13:29:45","4","Chasing","7","MR","CW",NA
+"10/30/2014 13:32:28","11","Chasing","12","ML","CW",NA
+"10/30/2014 13:38:01","6","Fighting, Chasing","10","LR","CW",NA
+"10/30/2014 13:38:23","6","Chasing","10","AllOver","CW",NA
+"10/30/2014 13:49:32","3","Fighting","10","UL","CW",NA
+"10/30/2014 13:53:33","3","Fighting","2","UL","CW",NA
+"10/30/2014 13:54:43","3","Fighting, Chasing","9","MR","CW",NA
+"10/30/2014 13:59:00","4","Chasing","8","LR","CW",NA
+"10/30/2014 14:00:10","End","End","End","End","CW",NA
+"10/31/2014 14:02:22","Start","Start","Start","Start","AR",NA
+"10/31/2014 14:02:58","9","Fighting","4","NB4","AR",NA
+"10/31/2014 14:05:36","3","Fighting","6","LR","AR",NA
+"10/31/2014 14:06:49","12","Fighting, Chasing","11","MR","AR",NA
+"10/31/2014 14:08:59","4","Fighting, Chasing","12","NB5","AR",NA
+"10/31/2014 14:10:02","3","Chasing","12","UL","AR",NA
+"10/31/2014 14:17:13","7","Chasing","8","UL","AR",NA
+"10/31/2014 14:19:15","4","Fighting","8","ML","AR",NA
+"10/31/2014 14:22:34","3","Chasing","12","UL","AR",NA
+"10/31/2014 14:23:48","4","Fighting, Chasing","3","UR","AR",NA
+"10/31/2014 14:25:21","4","Chasing","5","MR","AR",NA
+"10/31/2014 14:27:44","4","Fighting, Chasing","11","LR","AR",NA
+"10/31/2014 14:30:22","4","Chasing","9","LR","AR",NA
+"10/31/2014 14:37:09","7","Chasing","10","MR","AR",NA
+"10/31/2014 14:37:38","4","Chasing","7","ML","AR",NA
+"10/31/2014 14:40:38","11","Chasing","9","UR","AR",NA
+"10/31/2014 14:43:46","1","Chasing","9","LR","AR",NA
+"10/31/2014 14:45:03","1","Fighting","6","UR","AR",NA
+"10/31/2014 14:45:50","7","Chasing","2","ML","AR",NA
+"10/31/2014 14:46:09","4","Fighting","6","NB5","AR",NA
+"10/31/2014 14:48:20","6","Fighting, Chasing, Mounting","8","MR","AR",NA
+"10/31/2014 14:49:20","5","Fighting","6","NB5","AR",NA
+"10/31/2014 14:51:00","7","Fighting, Mounting","11","MR","AR",NA
+"10/31/2014 14:52:24","7","Fighting, Chasing","8","MR","AR",NA
+"10/31/2014 14:52:52","3","Chasing","6","MR","AR",NA
+"10/31/2014 14:53:20","3","Chasing","12","UR","AR",NA
+"10/31/2014 14:55:02","1","Chasing","4","LR","AR",NA
+"10/31/2014 14:55:38","3","Fighting, Chasing","2","ML","AR",NA
+"10/31/2014 14:58:25","3","Chasing","1","NB5","AR",NA
+"10/31/2014 14:59:30","3","Fighting, Chasing","7","UL","AR",NA
+"10/31/2014 15:00:31","4","Fighting","9","MR","AR",NA
+"10/31/2014 15:00:43","4","Fighting, Chasing","3","MR","AR",NA
+"10/31/2014 15:05:19","5","Chasing","9","MR","AR",NA
+"10/31/2014 15:05:58","5","Chasing","4","NB5","AR",NA
+"10/31/2014 15:06:40","12","Fighting","11","NB4","AR",NA
+"10/31/2014 15:07:00","4","Chasing","5","LL","AR",NA
+"10/31/2014 15:12:26","7","Chasing","8","UR","AR",NA
+"10/31/2014 15:13:47","4","Chasing","11","MR","AR",NA
+"10/31/2014 15:14:40","4","Fighting, Chasing","5","NB4","AR",NA
+"10/31/2014 15:15:15","4","Chasing","7","LL","AR",NA
+"10/31/2014 15:15:47","3","Chasing","9","ML","AR",NA
+"10/31/2014 15:19:55","4","Fighting, Mounting","10","UR","AR",NA
+"10/31/2014 15:20:09","7","Fighting","10","UR","AR",NA
+"10/31/2014 15:20:21","4","Chasing","10","UR","AR",NA
+"10/31/2014 15:23:38","4","Fighting","9","NB1","AR",NA
+"10/31/2014 15:41:47","4","Chasing","9","MR","AR",NA
+"10/31/2014 15:42:29","7","Chasing","9","UL","AR",NA
+"10/31/2014 15:45:14","3","Fighting, Mounting","9","ML","AR",NA
+"10/31/2014 15:48:29","4","Chasing","8","UL","AR",NA
+"10/31/2014 15:50:13","3","Fighting","9","MR","AR",NA
+"10/31/2014 15:52:25","4","Fighting","9","UL","AR",NA
+"10/31/2014 15:58:04","4","Chasing","5","NB1","AR",NA
+"10/31/2014 16:00:23","End","End","End","End","AR",NA
+"11/1/2014 12:03:37","Start","Start","Start","Start","KW",NA
+"11/1/2014 12:06:56","4","Fighting","9","MR","KW",NA
+"11/1/2014 12:10:49","4","Chasing","3","MR","KW",NA
+"11/1/2014 12:14:28","6","Mounting","10","UL","KW",NA
+"11/1/2014 12:15:08","6","Fighting","2","MR","KW",NA
+"11/1/2014 12:18:21","6","Chasing","10","UL","KW",NA
+"11/1/2014 12:18:39","4","Chasing","3","LL","KW",NA
+"11/1/2014 12:19:21","4","Chasing","10","LR","KW",NA
+"11/1/2014 12:22:35","4","Fighting, Chasing","2","MR","KW",NA
+"11/1/2014 12:24:37","7","Induce-flee","2","LL","KW",NA
+"11/1/2014 12:26:20","6","Fighting, Chasing, Mounting","2","UL","KW","ul down to nb5"
+"11/1/2014 12:31:24","7","Mounting","6","MR","KW",NA
+"11/1/2014 12:31:57","6","Fighting, Chasing","8","ML","KW",NA
+"11/1/2014 12:33:38","4","Subordinate","3","UR","KW",NA
+"11/1/2014 12:40:06","6","Chasing","8","ML","KW",NA
+"11/1/2014 12:46:26","4","Induce-flee","9","LL","KW",NA
+"11/1/2014 12:47:08","4","Fighting","12","LR","KW",NA
+"11/1/2014 12:47:43","4","Chasing","7","MR","KW",NA
+"11/1/2014 12:47:59","6","Fighting, Chasing","2","LL","KW",NA
+"11/1/2014 12:48:35","6","Fighting","2","LR","KW",NA
+"11/1/2014 12:51:02","4","Subordinate","6","MR","KW",NA
+"11/1/2014 12:54:54","4","Chasing","2","LL","KW",NA
+"11/1/2014 12:56:27","4","Chasing","12","NB2","KW",NA
+"11/1/2014 12:57:54","7","Fighting","5","LR","KW",NA
+"11/1/2014 12:59:01","7","Induce-flee","10","ML","KW",NA
+"11/1/2014 13:00:35","4","Mounting","2","NB4","KW",NA
+"11/1/2014 13:07:48","4","Fighting, Chasing","11","ML","KW",NA
+"11/1/2014 13:09:17","4","Fighting, Chasing","8","UL","KW",NA
+"11/1/2014 13:11:23","4","Fighting","11","UR","KW",NA
+"11/1/2014 13:15:34","4","Fighting, Chasing","1","LR","KW",NA
+"11/1/2014 13:20:05","11","Induce-flee","9","UR","KW",NA
+"11/1/2014 13:20:51","4","Fighting","9","NB3","KW",NA
+"11/1/2014 13:24:39","4","Mounting","11","UR","KW",NA
+"11/1/2014 13:24:58","11","Fighting","10","UR","KW",NA
+"11/1/2014 13:27:22","10","Chasing","1","UR","KW",NA
+"11/1/2014 13:29:09","11","Chasing","7","UR","KW",NA
+"11/1/2014 13:29:43","4","Fighting, Chasing","7","NB3","KW",NA
+"11/1/2014 13:30:01","6","Fighting","9","LR","KW",NA
+"11/1/2014 13:30:19","4","Fighting","6","LR","KW",NA
+"11/1/2014 13:33:36","7","Chasing","1","LR","KW",NA
+"11/1/2014 13:35:01","4","Fighting, Chasing","6","LR","KW",NA
+"11/1/2014 13:37:51","4","Chasing","8","NB3","KW",NA
+"11/1/2014 13:38:08","4","Chasing","1","NB1","KW",NA
+"11/1/2014 13:39:06","7","Chasing","9","ML","KW",NA
+"11/1/2014 13:41:25","7","Fighting","9","MR","KW",NA
+"11/1/2014 13:43:00","4","Fighting","6","NB3","KW",NA
+"11/1/2014 13:43:13","6","Fighting","9","NB3","KW",NA
+"11/1/2014 13:47:10","11","Mounting","10","UR","KW",NA
+"11/1/2014 13:48:30","7","Chasing","10","MR","KW",NA
+"11/1/2014 13:55:32","3","Chasing","7","UL","KW",NA
+"11/1/2014 13:57:15","3","Induce-flee","6","ML","KW",NA
+"11/1/2014 13:59:41","4","Chasing","3","UL","KW",NA
+"11/1/2014 14:00:40","End","End","End","End","KW",NA
+"11/3/2014 13:02:08","Start","Start","Start","Start","AP",NA
+"11/3/2014 13:06:42","4","Subordinate","11","UR","AP",NA
+"11/3/2014 13:13:40","7","Chasing","2","LL","AP",NA
+"11/3/2014 13:14:45","4","Chasing","7","LL","AP",NA
+"11/3/2014 13:17:26","4","Fighting, Chasing","9","MR","AP",NA
+"11/3/2014 13:26:15","4","Chasing","11","MR","AP",NA
+"11/3/2014 13:31:19","6","Chasing","10","ML","AP",NA
+"11/3/2014 13:32:50","6","Chasing","10","UR","AP",NA
+"11/3/2014 13:33:17","4","Chasing","6","UR","AP","at the same time as 6 chased 10"
+"11/3/2014 13:36:08","6","Chasing","12","UL","AP",NA
+"11/3/2014 13:37:10","4","Chasing","10","UR","AP",NA
+"11/3/2014 13:37:40","6","Fighting","10","LR","AP",NA
+"11/3/2014 13:40:24","6","Chasing","12","UL","AP",NA
+"11/3/2014 13:41:15","4","Chasing","7","MR","AP",NA
+"11/3/2014 13:43:23","7","Chasing","6","LL","AP",NA
+"11/3/2014 13:47:34","7","Chasing","6","UL","AP",NA
+"11/3/2014 13:50:00","6","Chasing","12","MR","AP",NA
+"11/3/2014 14:00:26","7","Chasing","12","MR","AP",NA
+"11/3/2014 14:09:14","7","Induce-flee","12","LL","AP",NA
+"11/3/2014 14:12:06","7","Chasing","2","ML","AP",NA
+"11/3/2014 14:12:45","7","Chasing","2","UL","AP",NA
+"11/3/2014 14:13:54","7","Chasing","10","UL","AP",NA
+"11/3/2014 14:16:09","4","Fighting, Chasing","7","UL","AP",NA
+"11/3/2014 14:25:10","4","Chasing","8","MR","AP",NA
+"11/3/2014 14:26:50","6","Chasing","10","UL","AP",NA
+"11/3/2014 14:27:54","6","Fighting, Chasing","2","UL","AP",NA
+"11/3/2014 14:29:27","4","Fighting, Chasing","8","UL","AP",NA
+"11/3/2014 14:32:18","8","Chasing","3","UR","AP",NA
+"11/3/2014 14:32:34","4","Chasing","8","UR","AP",NA
+"11/3/2014 14:32:47","4","Chasing","3","UR","AP",NA
+"11/3/2014 14:35:03","4","Chasing, Mounting","8","LR","AP",NA
+"11/3/2014 14:35:29","4","Chasing","3","UR","AP",NA
+"11/3/2014 14:35:54","6","Fighting, Chasing, Mounting","8","MR","AP",NA
+"11/3/2014 14:44:18","6","Chasing","8","UL","AP",NA
+"11/3/2014 14:44:47","6","Fighting, Chasing","8","UL","AP",NA
+"11/3/2014 14:48:43","7","Chasing","6","UL","AP",NA
+"11/3/2014 14:50:47","11","Chasing","3","UR","AP",NA
+"11/3/2014 14:51:01","11","Chasing","6","UR","AP",NA
+"11/3/2014 14:51:49","11","Chasing","3","UR","AP",NA
+"11/3/2014 14:54:48","11","Chasing","3","UR","AP",NA
+"11/3/2014 14:57:49","11","Chasing","3","UR","AP",NA
+"11/3/2014 14:59:57","End","End","End","End","AP",NA
+"11/3/2014 15:01:01","Start","Start","Start","Start","BN",NA
+"11/3/2014 15:03:06","11","Fighting","5","UR","BN",NA
+"11/3/2014 15:03:41","4","Fighting","7","UL","BN",NA
+"11/3/2014 15:04:14","4","Subordinate","11","UR","BN",NA
+"11/3/2014 15:06:26","1","Fighting, Chasing","6","NB2, NB3, NB4","BN",NA
+"11/3/2014 15:06:58","4","Subordinate","11","UR","BN",NA
+"11/3/2014 15:09:36","4","Chasing","1","LL","BN",NA
+"11/3/2014 15:10:21","4","Subordinate","11","UR","BN",NA
+"11/3/2014 15:11:30","4","Fighting","11","UR","BN",NA
+"11/3/2014 15:12:14","4","Chasing","11","UR","BN",NA
+"11/3/2014 15:16:50","4","Chasing","12","LR","BN",NA
+"11/3/2014 15:17:09","4","Fighting","5","NB5","BN",NA
+"11/3/2014 15:22:20","6","Fighting","1","UL","BN",NA
+"11/3/2014 15:24:00","4","Fighting","9","LR","BN",NA
+"11/3/2014 15:24:15","7","Fighting","9","UL","BN",NA
+"11/3/2014 15:25:17","7","Chasing","1","UL","BN",NA
+"11/3/2014 15:28:52","4","Induce-flee","7","MR","BN",NA
+"11/3/2014 15:31:26","1","Fighting","12","NB4","BN",NA
+"11/3/2014 15:31:49","4","Fighting","9","LL","BN",NA
+"11/3/2014 15:36:50","4","Fighting","7","UL","BN",NA
+"11/3/2014 15:37:05","4","Induce-flee","12","UL","BN",NA
+"11/3/2014 15:37:40","11","Fighting","9","MR","BN",NA
+"11/3/2014 15:38:14","4","Fighting","7","LR","BN",NA
+"11/3/2014 15:39:03","11","Fighting","9","UL","BN",NA
+"11/3/2014 15:39:19","4","Fighting","11","MR","BN",NA
+"11/3/2014 15:39:32","4","Fighting","7","ML","BN",NA
+"11/3/2014 15:40:10","4","Fighting, Chasing","6","ML","BN",NA
+"11/3/2014 15:42:47","4","Subordinate","11, 12","UR","BN",NA
+"11/3/2014 15:44:34","2, 9","Fighting","2, 9","NB5","BN","couldn't tell who won"
+"11/3/2014 15:44:57","4","Fighting","11","UR","BN",NA
+"11/3/2014 15:47:33","4","Fighting","2","MR","BN",NA
+"11/3/2014 15:47:59","4","Chasing","6","ML","BN",NA
+"11/3/2014 15:48:19","4","Fighting","2","MR","BN",NA
+"11/3/2014 15:48:49","6","Fighting","4","MR","BN",NA
+"11/3/2014 15:49:10","6","Fighting","2","MR","BN",NA
+"11/3/2014 15:58:54","11","Induce-flee","12","UR","BN",NA
+"11/3/2014 16:00:08","6","Fighting","12","LL","BN",NA
+"11/3/2014 16:00:57","4","Fighting","6","UR","BN",NA
+"11/3/2014 16:01:59","4","Fighting","2, 7","UL","BN",NA
+"11/3/2014 16:02:51","7","Fighting","2","UL","BN",NA
+"11/3/2014 16:05:33","4","Fighting","2","UL","BN",NA
+"11/3/2014 16:14:25","11","Fighting","10","UR","BN",NA
+"11/3/2014 16:15:18","11","Fighting","10","UR","BN",NA
+"11/3/2014 16:21:49","11","Induce-flee","2","UL","BN",NA
+"11/3/2014 16:26:46","2, 11","Fighting","8","UR","BN",NA
+"11/3/2014 16:29:10","7","Fighting","2, 8, 10","UL","BN",NA
+"11/3/2014 16:30:26","11","Chasing","10","UR","BN",NA
+"11/3/2014 16:30:38","11","Induce-flee","6","UL","BN",NA
+"11/3/2014 16:31:08","7","Chasing","6","UL","BN",NA
+"11/3/2014 16:32:26","7, 11","Fighting","9","MR","BN",NA
+"11/3/2014 16:32:49","7","Chasing","6","ML","BN",NA
+"11/3/2014 16:33:04","11","Fighting","2","UR","BN",NA
+"11/3/2014 16:34:11","6","Fighting","2","UL","BN",NA
+"11/3/2014 16:34:28","7","Chasing","6","UR","BN",NA
+"11/3/2014 16:35:34","7","Fighting","2","UL","BN",NA
+"11/3/2014 16:37:19","6","Induce-flee","2","MR","BN",NA
+"11/3/2014 16:37:32","7","Subordinate","6","MR","BN",NA
+"11/3/2014 16:38:01","7","Chasing","6","ML","BN",NA
+"11/3/2014 16:40:23","1","Fighting","9","NB4","BN",NA
+"11/3/2014 16:40:54","4","Fighting","11","UR","BN",NA
+"11/3/2014 16:41:55","4","Fighting","8","MR","BN",NA
+"11/3/2014 16:43:02","11","Induce-flee","8","UR","BN",NA
+"11/3/2014 16:43:48","6","Chasing","8","UL","BN",NA
+"11/3/2014 16:44:28","4","Fighting","8","LR","BN",NA
+"11/3/2014 16:48:03","4","Chasing","10","LL","BN",NA
+"11/3/2014 16:50:04","6","Fighting","8","MR","BN",NA
+"11/3/2014 16:50:17","4","Induce-flee","6","MR","BN",NA
+"11/3/2014 16:50:51","6","Fighting","8","UL","BN",NA
+"11/3/2014 16:51:08","4, 6","Fighting","9","UL","BN",NA
+"11/3/2014 16:51:39","11","Fighting","9","UR","BN",NA
+"11/3/2014 16:53:18","4","Induce-flee","6","UL","BN",NA
+"11/3/2014 16:54:44","4","Fighting","8","ML","BN",NA
+"11/3/2014 16:56:04","11","Fighting","9","UR","BN",NA
+"11/3/2014 16:56:18","4","Fighting","11","UR","BN",NA
+"11/3/2014 16:58:25","1","Fighting","6","NB5","BN",NA
+"11/3/2014 16:59:06","11","Fighting","1","UR","BN",NA
+"11/3/2014 17:00:12","End","End","End","End","BN",NA
+"11/4/2014 11:59:34","Start","Start","Start","Start","WL",NA
+"11/4/2014 12:05:37","6","Chasing","5","UR","WL",NA
+"11/4/2014 12:06:13","6","Fighting, Chasing","10","ML","WL",NA
+"11/4/2014 12:06:47","4","Fighting, Chasing","6","LR","WL","6 attacked first then 4 wins the fight"
+"11/4/2014 12:07:33","4","Fighting","10","UL","WL",NA
+"11/4/2014 12:10:27","4","Subordinate","3","UR","WL",NA
+"11/4/2014 12:25:12","1","Fighting, Chasing","3","NB3","WL",NA
+"11/4/2014 12:26:06","2","Fighting, Subordinate","3","NB5","WL",NA
+"11/4/2014 12:26:55","11","Fighting","1","NB5","WL",NA
+"11/4/2014 12:28:36","6","Fighting, Chasing","5","LL","WL",NA
+"11/4/2014 12:30:20","6","Fighting, Chasing","2","UL","WL",NA
+"11/4/2014 12:32:12","6","Fighting, Chasing","1, 7, 12","UL","WL",NA
+"11/4/2014 12:35:57","1","Fighting","5","NB5","WL",NA
+"11/4/2014 12:37:20","6","Fighting, Chasing","8","UL","WL",NA
+"11/4/2014 12:38:04","6","Fighting, Chasing","1","UR","WL",NA
+"11/4/2014 12:40:50","6","Fighting, Chasing","7","ML","WL",NA
+"11/4/2014 12:41:07","4","Fighting, Chasing, Subordinate","6","LL","WL",NA
+"11/4/2014 12:44:30","3, 6","Fighting, Chasing","3, 6","UL","WL","prolonged intense fight tied, though 6 fleed at last"
+"11/4/2014 12:45:24","3, 6","Fighting, Chasing","3, 6","UL","WL","prolonged intense fight tied, though 6 fleed at last"
+"11/4/2014 12:46:05","4","Subordinate","6","UL","WL","internet disruption at 12 45pm"
+"11/4/2014 12:46:42","4","Chasing","3","UR","WL",NA
+"11/4/2014 12:47:01","4","Chasing","3","UR","WL",NA
+"11/4/2014 12:49:05","6","Chasing, Subordinate","10","MR","WL",NA
+"11/4/2014 12:51:40","6","Chasing","8","UL","WL","8 has distinguished size of testes"
+"11/4/2014 12:53:41","6","Fighting, Chasing","8","ML","WL",NA
+"11/4/2014 12:54:18","1","Chasing","2","LL","WL",NA
+"11/4/2014 12:54:38","1","Chasing","5","NB1","WL",NA
+"11/4/2014 12:55:07","6","Fighting, Chasing","2","LL","WL",NA
+"11/4/2014 12:56:18","4","Induce-flee","3","UL","WL",NA
+"11/4/2014 12:57:55","6","Chasing","8","ML","WL",NA
+"11/4/2014 12:58:27","6","Chasing","10","UL","WL",NA
+"11/4/2014 12:58:45","4","Chasing","6, 8","ML","WL",NA
+"11/4/2014 13:00:58","6","Chasing","9","LL","WL",NA
+"11/4/2014 13:02:15","4","Chasing","10","MR","WL",NA
+"11/4/2014 13:05:29","3","Chasing","10","UL","WL",NA
+"11/4/2014 13:06:30","6","Fighting, Chasing","8","MR","WL",NA
+"11/4/2014 13:08:19","4","Chasing","3","UR","WL",NA
+"11/4/2014 13:13:38","4","Chasing","10","ML","WL",NA
+"11/4/2014 13:16:29","3","Fighting, Chasing","10","UR","WL",NA
+"11/4/2014 13:18:11","4","Chasing","6","ML","WL",NA
+"11/4/2014 13:19:23","6","Fighting, Chasing","9","ML","WL",NA
+"11/4/2014 13:20:01","4","Fighting","3","UL","WL",NA
+"11/4/2014 13:23:32","11","Induce-flee","3","UR","WL",NA
+"11/4/2014 13:24:04","6","Chasing","1","LL","WL",NA
+"11/4/2014 13:25:28","4","Fighting, Chasing","3","UR","WL",NA
+"11/4/2014 13:27:19","6","Fighting, Chasing","9","LR","WL",NA
+"11/4/2014 13:27:46","4","Fighting, Chasing","6","MR","WL",NA
+"11/4/2014 13:28:22","4","Chasing","11","UL","WL",NA
+"11/4/2014 13:30:28","6","Chasing","10","UL","WL",NA
+"11/4/2014 13:38:40","6","Chasing","11","UL","WL",NA
+"11/4/2014 13:40:51","6","Chasing","2, 11","UL","WL",NA
+"11/4/2014 13:41:11","11","Chasing","2","UR","WL",NA
+"11/4/2014 13:42:51","4","Chasing","6","MR","WL",NA
+"11/4/2014 13:50:02","6","Chasing","12","LR","WL",NA
+"11/4/2014 13:51:49","4","Fighting, Chasing","6","LL","WL",NA
+"11/4/2014 13:52:49","4","Chasing","6","UL","WL",NA
+"11/4/2014 13:53:42","4","Chasing","10","UL","WL",NA
+"11/4/2014 13:55:10","6","Chasing","12","LL","WL",NA
+"11/4/2014 13:56:48","4","Chasing","10","UL","WL",NA
+"11/4/2014 14:00:48","End","End","End","End","WL",NA
