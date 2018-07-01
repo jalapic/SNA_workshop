@@ -18,7 +18,7 @@ This module will provide a quick overview of the major packages used for social 
 We shall cover how to generate and beautify networks using the ‘igraph’ R package covering issues such as layout decisions, coloring and sizing of nodes and edges by network attributes, metrics or community. We shall extend this to cover how to create dynamic three-dimentional network plots using the R package ‘threejs’. We shall also discuss how to use the ‘ggplot’ based ‘ggraph’ R package which has many customizable features for plotting networks.
 
 - Network Graph Characteristics. 
-We shall cover concepts such as dyad and triad censuses, transitivity, reciprocity, clustering and density. We shall discuss their significance and importance for answering relevant questions to the patterns of social associations and behavior in networks.
+We shall cover concepts such as dyad and triad censuses, transitivity, reciprocity, clustering and density. We shall discuss their significance and importance for answering relevant questions to the patterns of social associations and behavior in networks. We will also introduce the jackknifing and bootstrapping of data/graphs to generate confidence intervals and certainty around observed metrics.
 
 
 **Day 2**
