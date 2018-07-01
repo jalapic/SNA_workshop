@@ -37,5 +37,5 @@ Sanchez-Tojar et al 2017 A practical guide for inferring reliable dominance hier
 http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12776/full
   
 McDonald & Shizuka 2012 Comparative transitive and temporal orderliness in dominance networks. Behavioral Ecology.
-
+https://academic.oup.com/beheco/article/24/2/511/250731
 
