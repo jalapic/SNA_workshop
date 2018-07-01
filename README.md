@@ -17,7 +17,7 @@ This will cover central themes of social network analysis: the major data format
 This module will provide a quick overview of the major packages used for social network analysis in R including ‘igraph’, ‘sna’, ‘network’. We shall learn how to convert raw data formats to network objects in R; how to interface with R network objects and how to create simple network visualizations.
 
 *- Intro to Visualizing Networks.* 
-We shall cover how to generate and beautify networks using the ‘igraph’ R package covering issues such as layout decisions, coloring and sizing of nodes and edges by network attributes, metrics or community. We shall extend this to cover how to create dynamic three-dimentional network plots using the R package ‘threejs’. We shall also discuss how to use the ‘ggplot’ based ‘ggraph’ R package which has many customizable features for plotting networks.
+We shall cover how to generate and beautify networks using the ‘igraph’ R package covering issues such as layout decisions, coloring and sizing of nodes and edges by network attributes, metrics or community. 
 
 *- Network Graph Characteristics.* 
 We shall cover concepts such as dyad and triad censuses, transitivity, reciprocity, clustering and density. We shall discuss their significance and importance for answering relevant questions to the patterns of social associations and behavior in networks. We will introduce the method of correspondence analysis for comparing structural features across networks. We will also introduce the jackknifing and bootstrapping of data/graphs to generate confidence intervals and certainty around observed metrics.
@@ -60,5 +60,6 @@ We shall cover traditional and network based methods for identifying social hier
 Key questions that are often neglected are how do network structures remain stable or change over time and can we infer how meaningful this stability and instability is? This module will discuss various methods for analysis of change for time-ordered and time-aggregated networks. We will use R packages for analysis of dynamic networks including ‘timeordered’, ‘networkDynamic’ and ‘tsna’.﻿
  
 *- Visualizing Networks II.* 
-This module will tackle advanced options for network plotting, including how to export ‘igraph’ R objects to Gephi for generating even more beautiful customized plots, how to create interactive web based network visualizations using R packages such as ‘threejs’, ‘visNetwork’ and ‘networkD3’, and how to plot or animate dynamic social networks.
+We shall extend visualization methods to cover how to create dynamic three-dimentional network plots using the R package ‘threejs’. We shall also discuss how to use the ‘ggplot’ based ‘ggraph’ R package which has many customizable features for plotting networks.
+This module will also tackle advanced options for network plotting, including how to export ‘igraph’ R objects to Gephi for generating even more beautiful customized plots, how to create interactive web based network visualizations using R packages such as ‘threejs’, ‘visNetwork’ and ‘networkD3’, and how to plot or animate dynamic social networks.
  
