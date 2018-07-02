@@ -23,10 +23,11 @@ We shall cover how to generate and beautify networks using the ‘igraph’ R pa
 We shall cover concepts such as dyad and triad censuses, transitivity, reciprocity, clustering and density. We shall discuss their significance and importance for answering relevant questions to the patterns of social associations and behavior in networks. We will introduce the method of correspondence analysis for comparing structural features across networks. We will also introduce the jackknifing and bootstrapping of data/graphs to generate confidence intervals and certainty around observed metrics.
 
 
-**Day 2**
-
 *- Identifying important nodes and edges.* 
 Learn how to evaluate key indicators of each node’s significance to the network including, degree centrality, eigenvector centrality, power centrality, and betweenness. Describe how to calculate for directed vs. undirected and weighted vs unweighted networks. Learn how to assess simple relationships between nodes including geodesic distances, identifying neighbors, determining shortest and longest paths.
+
+
+**Day 2**
 
 *- Identifying roles in social networks.*
  We shall identifying similarity and dissimilarity in node characteristics and  how we can determine social roles of actors. We will specifically explore the concepts of brokerage, cutpoints, blockmodeling, structural and regular equivalence. 
