@@ -29,7 +29,7 @@ We shall cover concepts such as dyad and triad censuses, transitivity, reciproci
 Learn how to evaluate key indicators of each node’s significance to the network including, degree centrality, eigenvector centrality, power centrality, and betweenness. Describe how to calculate for directed vs. undirected and weighted vs unweighted networks. Learn how to assess simple relationships between nodes including geodesic distances, identifying neighbors, determining shortest and longest paths.
 
 *- Identifying roles in social networks.*
- We shall identifying similarity and dissimilarity in node characteristics and  how we can determine social roles of actors. We will specifically explore the concepts of brokerage, cutpoints, and structural equivalence. 
+ We shall identifying similarity and dissimilarity in node characteristics and  how we can determine social roles of actors. We will specifically explore the concepts of brokerage, cutpoints, blockmodeling, structural and regular equivalence. 
 
 *- Identifying subgroups in social networks*
 We will evaluate methods for identifying how indiviudals preferentially associate with or avoid others. In this section we shall cover topics such as cliques, clusters, spatial autocorrelation, and assortativity/homophily. 
