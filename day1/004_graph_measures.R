@@ -30,7 +30,7 @@ g
 
 
 # visualize
-plot(g, edge.arrow.size=.5)
+plot(g, edge.arrow.size=.2)
 
 
 ## sizes
@@ -138,13 +138,13 @@ net <- intergraph::asNetwork(g)
 sna::connectedness(net) #1 connectedness treats networks as undirected.
 
 
-# use case e.g. wich nodes to remove from a network to maximally fragment the network.
+# use case e.g. which nodes to remove from a network to maximally fragment the network.
 # go through a network and remove each node and see change in fragmentation score.
 # Albert R., Jeong H., Barabasi A. (2000) Error and attack tolerance of complex networks. Nature, 406:378-381.
 
 library(keyplayer)
 keyplayer::fragment(mat)
-plot(g, vertex.arrow.size=.1)
+plot(g, edge.arrow.size=.05)
 V(g)$name
 
 keyplayer::fragment(mat) # notice John has lowest fragmentation, # removing Michael leads to more fragmentation
@@ -180,7 +180,7 @@ plot(gm,
      vertex.label.cex = .6,
      edge.color = 'gray42',
      vertex.size = 0,
-     edge.arrow.size = 0.3,
+     edge.arrow.size = 0.05,
      layout = layout_nicely(gm))
 
 
@@ -201,7 +201,7 @@ mean_distance(gm, directed = FALSE)
 # Is there an edge going from vertex 184 to vertex 178?
 gm['184', '178']
 
-# Is there an edge going from vertex 18 to vertex 20?
+# Is there an edge going from vertex 184 to vertex 178?
 gm['178', '184']
 
 # Show all edges going to or from vertex 184
@@ -275,8 +275,8 @@ diameter(g, directed = FALSE)
 
 # Directed connectedness - what proportion of pairs of nodes can reach each other?:
 
+plot(g,edge.arrow.size=.15)
 sna::reachability(net)
-plot(g,vertex.arrow.size=.05)
 V(g)$name
 
 x<-sna::reachability(net)
@@ -316,7 +316,7 @@ col <- oranges(max(gx.dist,na.rm=T)+1)
 col <- col[gx.dist+1]
 
 
-plot(gx, vertex.color=col, edge.arrow.size=.5, vertex.size=9,
+plot(gx, vertex.color=col, edge.arrow.size=.5, vertex.size=19,
      vertex.label.cex=.8,vertex.label.color="white")
 
 

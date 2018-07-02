@@ -29,7 +29,7 @@ g
 
 
 # visualize
-plot(g, edge.arrow.size=.5)
+plot(g, edge.arrow.size=.1)
 
 
 
@@ -64,7 +64,7 @@ col <- blues(max(degree(g,mode="in"))+1)
 col <- col[degree(g, mode="in")+1]
 col
 
-plot(g, vertex.color=col, edge.arrow.size=.3, vertex.size=9,
+plot(g, vertex.color=col, edge.arrow.size=.1, vertex.size=19,
      vertex.label.cex=.8,vertex.label.color="black")
 
 
@@ -93,7 +93,7 @@ by(degree(gu), INDICES=V(gu)$gender, mean)  # compare by group
 
 eigen_centrality(g, directed=T, weights=NA)
 eigen_centrality(g, directed=T, weights=NA)$vector
-round(eigen_centrality(g, directed=T, weights=NA)$vector,1)
+round(eigen_centrality(g, directed=T, weights=NA)$vector,2)
 
 # includes graph level info
 centr_eigen(g, directed=T, normalized=T) 

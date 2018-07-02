@@ -22,7 +22,7 @@ vcount(g)
 
 igraph::transitivity(g) #0.3286171 - observed value
 
-Nrep <- 50 # 50 removals or 1,2,3,4.....99,100 nodes
+Nrep <- 500 # 50 removals or 1,2,3,4.....99,100 nodes
 #Nrep <- 5000 # 5000 removals or 1,2,3,4.....99,100 nodes
 resmat <- matrix(NA, Nrep, 100) #Nrep rows, 100 cols to store results in
 
@@ -41,7 +41,7 @@ resmat[,100] # when 100 nodes removed, results of transitivity
 #plot
 library(ggplot2)
 library(tidyverse)
-
+library(dplyr)
 rbind(
   data.frame(Var2=0, mean=igraph::transitivity(g), sd=NA,se=NA),
 reshape2::melt(resmat) %>%
