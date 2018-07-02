@@ -250,7 +250,7 @@ table(head_of(g, E(g)))
 ### Other ways of creating graphs in igraph:
 
 rm(list = ls()) # Remove everything from environment
-
+dev.off() # remove plots
 
 
 ## manually....
