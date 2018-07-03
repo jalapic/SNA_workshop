@@ -9,7 +9,7 @@
 
 ## Roethlisberger & Dickson 1939 
 ## bank wiring games' room data.
-
+wiring<-read.csv("https://raw.githubusercontent.com/jalapic/SNA_workshop/master/data/wiring_gam.csv")[,-1]
 wiring <- read.csv("data/wiring_gam.csv")
 rownames(wiring)<-colnames(wiring)
 wiring
@@ -223,6 +223,8 @@ colnames(mat1)<-paste0("cl", 1:length(mcg))
 mat1  # but  notice that some of the 1s have become 0.8 
 mat1[mat==1]<-1
 mat1  #Same as Borgatti page 218
+
+mat1[mat1<.5]<-0  #thresholding example
 
 
 # apply bipartite graph to this matrix

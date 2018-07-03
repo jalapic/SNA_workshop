@@ -177,7 +177,7 @@ g <- set.vertex.attribute(g, 'group', value = anim1_grps$group)
 colors <- c("red","yellow","cyan","green", "magenta","mistyrose","gray79")
 g <- set.vertex.attribute(g, 'color', value = colors[traits])
 
-plot(g, edge.arrow.size=.2) 
+plot(g, edge.arrow.size=.1) 
 
 
 

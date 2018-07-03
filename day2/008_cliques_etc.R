@@ -1,6 +1,6 @@
 #### Cliques continued...----
 
-# kclans
+# kcliques
 # nclans
 # kplexes
 
