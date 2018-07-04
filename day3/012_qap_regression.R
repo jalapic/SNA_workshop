@@ -1,6 +1,6 @@
 ####    QAP Regression  (aka MR-QAP)
 
-
+library(sna)
 # Permutation tests can be used for linear regression
 # Each variable in the model is a network
 

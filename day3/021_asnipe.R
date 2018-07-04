@@ -379,7 +379,7 @@ detach(package:sna)
 
 deg_weighted_perm1 # 151 rows (individuals) x 1000 columns (permutations)
 # the degree of each individual in the network, with each column a permutation
-
+deg_weighted_perm1[,c(1,900)]
 colMeans(deg_weighted_perm1) # we can look at the average degree weight in each column/network like this.
 
 
@@ -565,6 +565,7 @@ ggplot(as.data.frame(e_perm), aes(e_perm)) +
 
 ## calculate P value from how many of the slopes estimated in the randomized data
 sum(e_perm > e)/nperms  # p = 0
+plot(e_perm, type="l")
 
 # so a significant effect of time of day on association patterns.
 # the pvalue here is 0 as no permutations had a parameter estimate as large as the observed.

@@ -161,7 +161,6 @@ modMax::louvain((igraph::get.adjacency(g))) #very good for very large networks
 
 
 
-
 ## Girvan-Newman Edge-Betweenness Algorithm
 
 # a divisive algorithm
@@ -322,7 +321,7 @@ res[[i]]<-cmX
 res
 res.mod
 psych::describe(unlist(res.mod))
-
+hist(unlist(res.mod),breaks=20)
 # create co-membership matrix for one of these....
 res1 <- res[[1]]
 
@@ -384,7 +383,7 @@ mat.cb <- cluster_edge_betweenness(mat.g)
 mat.v <- mat.cb$membership
 names(mat.v) <- V(mat.g)$name
 mat.v
-
+plot(mat.cb)
 
 # make visualization
 comem.g <- graph_from_adjacency_matrix(comem.matrix, 

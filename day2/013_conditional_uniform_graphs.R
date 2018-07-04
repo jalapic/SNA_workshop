@@ -50,7 +50,7 @@ gden(padgb.net) #.125
 plot(padgb.net)
 gtrans(padgb.net) # .42
 
-cug.den <- cug.test(padgb.net, gden, cmode="size")
+cug.den <- cug.test(padgb.net, gden, cmode="size",reps=5000)
 cug.den
 plot(cug.den)
 

@@ -11,7 +11,7 @@
 # 7. Construct a co-presence matrix C - 1 if both nodes present in replicate, 0 if both not present
 # 8. Construct n x n co-membership matrix P where values are proportion of trials
 #    where both i/j present that they were in the same matrix
-# 9. Calculate rc: the assortativity of P values with the original assignment of communities.
+# 9. Calculate rc: the assortativity of values of matrix P with the original assignment of communities.
  
 # rc = 1 if all bootstrap replicates have same community assignments as original
 # rc = 0 if bootstrap replicate community assignment is same as random networks
@@ -162,7 +162,7 @@ d
 
 library(tidyverse)
 d <- d %>% gather(key,value,1:10) %>% dplyr::select(sample,value) %>% mutate(present = 1) %>% filter(value!="NA")
-d
+d %>% arrange(sample)
 
 gbi.d <- reshape2::acast(d, sample~value, value.var = "present", fill=0)
 
