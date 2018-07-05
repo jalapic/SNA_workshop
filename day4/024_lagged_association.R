@@ -64,12 +64,22 @@ res[[6]]
 
 lagt.df <- as.data.frame(do.call('rbind', Map('cbind', res, tlag = lagT)))
 head(lagt.df)
+
 colnames(lagt.df)[1:2]<-c("time","lar")
 library(ggplot2)
-ggplot(lagt.df, aes(time,lar,color=factor(tlag),group=factor(tlag))) + 
+
+head(lagt.df)
+
+# make times on actual time scale
+lagt.df$newtime <- (exp(lagt.df$time) * lagt.df$tlag)-lagt.df$tlag
+
+
+ggplot(lagt.df, aes(newtime,lar,color=factor(tlag),group=factor(tlag))) + 
   geom_point(size=.5) + geom_line()
 
 
+ggplot(lagt.df, aes(log(newtime),lar,color=factor(tlag),group=factor(tlag))) + 
+  geom_point(size=.5) + geom_line()
 
 
 
@@ -117,7 +127,7 @@ lagged_assoc_perm <- matrix(NA, nrow=12, ncol=nrow(gbi))
   
 
 lagged_assoc_perm
-
+lagged_assoc_perm[1:12,1:3]
 
 # calculate the standard error
 N <- nrow(gbi)  #347

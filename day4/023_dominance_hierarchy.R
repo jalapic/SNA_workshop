@@ -241,7 +241,7 @@ sum( (steep$Stpsim > steep$Stp) / 10000 )  #pvalue based on node permutations
 # Individuals with negative David's Scores are losing more fights.
 
 ds(wlmat)
-
+ds(wlmat,norm=T)
 # Viewing this as a simple plot shows the steepness of David's Scores:
   
 plot(1:12, rev(sort(ds(wlmat))), "l",
@@ -425,7 +425,7 @@ gl
 
 # How Glicko ratings change over time can be calculated using the basic plot function:
 plot(gl,npl=12)
-
+str(gl)
 # The above base r plot is not aesthetically pleasing. 
 # I have created a default function that allows us to take a glicko object and
 # convert this to a more attractive plot.
