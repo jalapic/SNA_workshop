@@ -400,6 +400,7 @@ library(png)
 # save plot
 svglite("plot.svg", width = 10, height = 7)
 
+g.b <- betweenness(g)
 plot(g, 
      vertex.label = NA,
      edge.color = 'black',
