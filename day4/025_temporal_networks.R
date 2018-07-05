@@ -40,7 +40,8 @@ layoutg <- layout_nicely(g)
 days <- split(timedf, timedf$day)
 days
 
-days.g <- lapply(days, function(x) simplify(graph_from_edgelist(as.matrix(x[,1:2]),directed = F)))
+days.g <- lapply(days, 
+                 function(x) simplify(graph_from_edgelist(as.matrix(x[,1:2]),directed = F)))
 days.g
 
 # just plot first 10 days

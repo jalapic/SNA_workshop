@@ -39,8 +39,7 @@ plot(network.extract(moodyContactSim,at=215),
      label.cex=0.6,
      label.pos=5,
      vertex.col='white',
-     vertex.cex=3,
-     coord=coords)
+     vertex.cex=3)
 
 plot(network.extract(moodyContactSim,at=750),
      main='network at time 750',
@@ -48,8 +47,7 @@ plot(network.extract(moodyContactSim,at=750),
      label.cex=0.6,
      label.pos=5,
      vertex.col='white',
-     vertex.cex=3,
-     coord=coords)
+     vertex.cex=3)
 par(mfcol=c(1,1))
 
 
@@ -76,13 +74,13 @@ v10path
 
 
 # plot tpath
-plot(v10path,coord=coords, displaylabels=TRUE)
+plot(v10path, displaylabels=TRUE)
 
 v1path<-tPath(moodyContactSim,v=1,start=0) # from vertex 1
 
 par(mfcol=c(1,2)) # set up side-by-side plot
-plotPaths(moodyContactSim,v10path,coord=coords, main='fwd path from v10')
-plotPaths(moodyContactSim,v1path,coord=coords, main = 'fwd path from v1')
+plotPaths(moodyContactSim,v10path, main='fwd path from v10')
+plotPaths(moodyContactSim,v1path, main = 'fwd path from v1')
 par(mfcol=c(1,1)) # turn off side-by-side plots
 
 ## nb. Notice that paths are directed (even if the underlying network is not) and not always symmetric.
@@ -92,9 +90,9 @@ par(mfcol=c(1,1)) # turn off side-by-side plots
 ## starting at different time points:
 
 par(mfcol=1:2)
-plot(tPath(moodyContactSim,v=1,start=0),coord=coords,
+plot(tPath(moodyContactSim,v=1,start=0),
      main='tPath from v1 @ t=0')
-plot(tPath(moodyContactSim,v=1,start=500),coord=coords,
+plot(tPath(moodyContactSim,v=1,start=500),
      main='tPath from v1 @ t=500')
 par(mfcol=c(1,1))
 
