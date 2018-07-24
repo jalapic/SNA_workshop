@@ -63,3 +63,6 @@ Key questions that are often neglected are how do network structures remain stab
 *- Visualizing Networks II.* 
 We shall extend visualization methods to cover how to create dynamic three-dimentional network plots using the R package ‘threejs’. We shall also discuss how to use the ‘ggplot’ based ‘ggraph’ and 'tidygraph' R packages which has many customizable features for plotting networks. This module will also tackle advanced options for network plotting, including how to export ‘igraph’ R objects to Gephi for generating even more beautiful customized plots, how to create interactive web based network visualizations using R packages such as ‘threejs’, ‘visNetwork’ and ‘networkD3’, and how to plot or animate dynamic social networks.
  
+
+**References**
+Please see the file `references.txt` for background literature references as well as references to papers that we will use tutorial code and data from.
