@@ -65,4 +65,5 @@ We shall extend visualization methods to cover how to create dynamic three-dimen
  
 
 **References**
+
 Please see the file `references.txt` for background literature references as well as references to papers that we will use tutorial code and data from.
